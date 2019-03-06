@@ -1,5 +1,5 @@
 TO PUBLISH SITE: (while in website-files)
-git submodule add -b master git@github.com:blairbilodeau/blairbilodeau.github.io.git public
+
 rm -rf public
 hugo
 cd public
