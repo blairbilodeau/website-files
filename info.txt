@@ -1,0 +1,14 @@
+TO PUBLISH SITE: (while in website-files)
+git submodule add -b master git@github.com:blairbilodeau/blairbilodeau.github.io.git public
+rm -rf public
+hugo
+cd public
+git add .
+git commit -m "Build website"
+git push origin master
+cd ..
+
+HELP
+https://sourcethemes.com/academic/docs/get-started/
+http://www.mit.edu/~k2smith/post/getting-started/
+https://gist.github.com/davfre/8313299
