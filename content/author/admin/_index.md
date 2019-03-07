@@ -16,7 +16,7 @@ role = "PhD Student in Statistics"
 organizations = [ { name = "University of Toronto", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "PhD student researching statistical learning theory at the University of Toronto."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email = "blair.bilodeau@mail.utoronto.ca"

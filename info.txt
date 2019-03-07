@@ -1,6 +1,5 @@
 TO PUBLISH SITE: (while in website-files)
 
-rm -rf public
 hugo
 cd public
 git add .
