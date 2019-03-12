@@ -1,10 +1,10 @@
 +++
 # Portfolio widget.
-widget = "portfolio"  # Do not modify this line!
+widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Research"
+title = "Current Research"
 subtitle = ""
 
 [content]
@@ -22,7 +22,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = ""
-    tag = "*"
+    tag = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
