@@ -56,7 +56,7 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_preprint = "research/nserc-usra-1/preprint.pdf"
+url_preprint = "publication/colocation/preprint.pdf"
 url_pdf = ""
 url_slides = ""
 url_video = ""
