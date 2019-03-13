@@ -73,9 +73,7 @@ user_groups = []
 
 +++
 
-*SITE CURRENTLY UNDER CONSTRUCTION*
-
-I'm currently a PhD student in statistics at the University of Toronto. My research interests are in non-asymptotics; primarily statistical learning theory and theoretical error estimation for modern machine learning techniques. My ultimate goal is to develop rigorous results which can be applied to models currently used in practice. This will improve the reliability and interpretability of these tools, which is crucial to deploying them for decisions where human lives are at stake.
+I'm currently a PhD student in statistics at the University of Toronto under the supervision of Daniel Roy. My research interests are in non-asymptotics; primarily statistical learning theory and theoretical error estimation for modern machine learning techniques. I hope to develop rigorous results which can be applied to models currently used in practice. This will improve the reliability and interpretability of these tools, which is crucial to deploying them for decisions where human lives are at stake.
 
 My undergraduate studies were at Western University in financial modelling and mathematics. While there, I spent two NSERC undergraduate student research awards working on queueing theory results with Dr. David Stanford. My first summer I built a large simulation of an inpatient hospital unit using Python, and we are currently in the process of publishing these results. This past summer I worked on theoretical derivations of densities related to the accumulating priority queue, and the results from this require further refinement before publication.
 

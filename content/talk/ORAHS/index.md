@@ -1,5 +1,5 @@
 +++
-title = "Example Talk"
+title = ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,10 +21,10 @@ event = "Academic Theme Conference"
 event_url = "https://example.org"
 
 # Abstract. What's your talk about?
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "An example talk using Academic's Markdown slides feature."
+summary = ""
 
 # Is this a featured talk? (true/false)
 featured = false

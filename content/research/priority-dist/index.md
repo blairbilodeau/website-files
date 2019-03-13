@@ -6,7 +6,7 @@ title = "Probability distribution for accumulated priority of high priority cust
 date = 2019-02-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["B.L. Bilodeau", "D.A. Stanford"]
+authors = ["B.L. Bilodeau", "D.A. Stanford", "P. Taylor", "I. Ziedins", "M. Mojalal", "N. Li"]
 
 # Abstract.
 abstract = ""
@@ -62,4 +62,4 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-I completed the bulk of this work during my NSERC USRA in summer 2018. We are building on Stanford et. al.'s previous results involving the accumulating priority queue. Our current goal is to characterize the average waiting time for high priority customers.
+This work was also mainly completed during my NSERC USRA in summer 2018. I am building on the previous results by my co-researchers, particularly Maryam Mojalal's thesis, to develop the probability distribution of accumulated priority for high priority customers in the M/M/1 accumulating priority queue. I have also made progress on extending this to the affine case.
