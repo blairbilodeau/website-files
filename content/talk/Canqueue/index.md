@@ -3,7 +3,7 @@ title = "Simulated co-location of patients admitted to an inpatient internal med
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2018-08-02T15:30:00
+date = 2018-08-17T10:00:00
 # date_end = 2030-06-01T15:00:00
 all_day = false
 
@@ -14,11 +14,11 @@ publishDate = 2017-01-01T00:00:00
 authors = []
 
 # Location of event.
-location = "Oslo Science Park, Oslo, Norway"
+location = "University of Alberta, Edmonton, Alberta"
 
 # Name of event and optional event URL.
-event = "Operations Research Applied to Health Services (ORAHS)"
-event_url = "https://www.ccnorway.no/orahs2018/"
+event = "Canqueue"
+event_url = "https://sites.google.com/view/canqueue2018/"
 
 # Abstract. What's your talk about?
 abstract = ""

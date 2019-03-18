@@ -3,10 +3,10 @@
 # This section displays recent talks from `content/talk/`.
 
 widget = "pages"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Conference Presentations"
+title = "Conference Talks"
 subtitle = ""
 
 [content]
