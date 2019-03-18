@@ -1,6 +1,4 @@
 +++
-type= "research"
-
 # Project title.
 title = "Average waiting time for high priority customers in the M/G/1 accumulating priority queue"
 
@@ -8,10 +6,21 @@ title = "Average waiting time for high priority customers in the M/G/1 accumulat
 date = 2019-02-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["B.L. Bilodeau", "D.A. Stanford"]
+authors = ["Blair L. Bilodeau", "David A. Stanford"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference Paper
+# 2 = Journal Article
+# 3 = Work in Progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["3"]
 
 # Abstract.
-abstract = ""
+abstract = "Currently, we have derived the closed-form of the Laplace-Stieltjes transform (LST) for the probability distribution of accumulated priority for both classes in the M/M/1 accumulating priority queue (APQ). We aim to extend these results to the affine case, where the high priority class enters the system with some amount of initial credit. Prior work derived a form for the LST of the waiting time distribution for low priority customers which must be solved numerically. Our goal is to replace this with a closed-form solution through combinatorial path-counting methods, and then use this to compute the average waiting time for high priority customers. We can then apply a conservation law to obtain an important probability that characterizes the system, which we believe is crucial to deriving the LST of the waiting time distribution for high priority customers in the affine APQ."
 
 # Project summary to display on homepage.
 summary = ""
@@ -63,5 +72,3 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-
-I completed the bulk of this work during my NSERC USRA in summer 2018. We are building on Stanford et. al.'s previous results involving the accumulating priority queue. Our current goal is to characterize the average waiting time for high priority customers.

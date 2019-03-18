@@ -6,17 +6,17 @@ title = "Simulated co-location of patients admitted to an inpatient internal med
 date = 2019-02-12
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["B.L. Bilodeau", "D.A. Stanford", "M. Goldszmidt", "A. Appleton"]
+authors = ["Blair L. Bilodeau", "David A. Stanford", "Mark Goldszmidt", "Andrew Appleton"]
 
 # Publication type.
 # Legend:
 # 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
+# 1 = Conference Paper
+# 2 = Journal Article
+# 3 = Work in Progress
+# 4 = Technical report
 # 5 = Book
-# 6 = Book section
+# 6 = Book chapter
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
@@ -76,5 +76,3 @@ url_code = "https://github.com/blairbilodeau/NSERC-USRA-2017"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-
-For my first undergraduate student research award, I built a simulation of patient flow through the internal medicine ward at London's university hospital. We have resubmitted a manuscript to INFOR on February 12, 2019 for a minor revision. I presented this work at ORAHS in Oslo, Norway and CanQueue in Edmonton, Canada during the summer of 2018.

@@ -1,15 +1,26 @@
 +++
 # Project title.
-title = "A Bayesian approach to online learning with expert advice"
+title = "Probability distribution for accumulated priority of high priority customers in the M/M/1 accumulating priority queue"
 
 # Date this page was created.
-date = 2019-02-12
+date = 2018-08-17
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["B.L. Bilodeau", "D. Roy"]
+authors = ["Blair L. Bilodeau", "David A. Stanford", "Peter Taylor", "Ilze Ziedins", "Maryam Mojalal", "Na Li"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference Paper
+# 2 = Journal Article
+# 3 = Work in Progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["3"]
 
 # Abstract.
-abstract = ""
+abstract = "We derived a closed-form for the Laplace-Stieltjes transform (LST) of the distribution of accumulated priority for high priority customers in the M/M/1 accumulating priority queue (APQ)."
 
 # Project summary to display on homepage.
 summary = ""
@@ -19,7 +30,7 @@ doi = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ['research']
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -61,5 +72,3 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-
-This is the first research project associated with my PhD. We are interested in the problem of making predictions in an online learning environment with expert advice with prior distributions on the performance of the experts.

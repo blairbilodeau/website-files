@@ -37,9 +37,9 @@ theme = "academic"
 enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
+# defaultContentLanguage = "en"
+# hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+# defaultContentLanguageInSubdir = false
 
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true

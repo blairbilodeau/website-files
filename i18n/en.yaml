@@ -146,22 +146,22 @@
   translation: Uncategorized
 
 - id: pub_conf
-  translation: Conference paper
+  translation: Conference Paper
 
 - id: pub_journal
-  translation: Journal article
+  translation: Journal Article
 
 - id: pub_manuscript
-  translation: Manuscript
+  translation: Work in Progress
 
 - id: pub_report
-  translation: Report
+  translation: Technical Report
 
 - id: pub_book
   translation: Book
 
 - id: pub_book_section
-  translation: Book section
+  translation: Book Section
 
 # Project details
 

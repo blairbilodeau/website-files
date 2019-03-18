@@ -1,15 +1,26 @@
 +++
 # Project title.
-title = "Probability distribution for accumulated priority of high priority customers in the M/M/1 accumulating priorty queue"
+title = "Weakening distributional assumptions related to binary prediction"
 
 # Date this page was created.
-date = 2019-02-01
+date = 2019-02-12
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["B.L. Bilodeau", "D.A. Stanford", "P. Taylor", "I. Ziedins", "M. Mojalal", "N. Li"]
+authors = ["Blair L. Bilodeau", "Daniel M. Roy"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference Paper
+# 2 = Journal Article
+# 3 = Work in Progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["3"]
 
 # Abstract.
-abstract = ""
+abstract = "This work is still very preliminary. We hope to relate the notion of 'nearly independent' data to predicting binary sequences."
 
 # Project summary to display on homepage.
 summary = ""
@@ -61,5 +72,3 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-
-This work was also mainly completed during my NSERC USRA in summer 2018. I am building on the previous results by my co-researchers, particularly Maryam Mojalal's thesis, to develop the probability distribution of accumulated priority for high priority customers in the M/M/1 accumulating priority queue. I have also made progress on extending this to the affine case.
