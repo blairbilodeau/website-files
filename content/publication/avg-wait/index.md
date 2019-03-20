@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Average waiting time for high priority customers in the M/G/1 accumulating priority queue"
+title = "Average waiting time for high priority customers in the M/G/1 affine accumulating priority queue"
 
 # Date this page was created.
 date = 2019-02-01
