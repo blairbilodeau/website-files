@@ -1,27 +1,27 @@
 +++
-title = "Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration"
+title = "The average waiting time for both classes in a delayed accumulating priority queue"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2018-08-02T15:30:00
+date = 2019-05-28T10:00:00
 # date_end = 2030-06-01T15:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2017-01-01T00:00:00
+publishDate = 2019-04-06T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
 # Location of event.
-location = "Oslo Science Park, Oslo, Norway"
+location = "Saskatoon, Canada"
 
 # Name of event and optional event URL.
-event = "Operations Research Applied to Health Services (ORAHS)"
-event_url = "https://www.ccnorway.no/orahs2018/"
+event = "Canadian Operational Research Society (CORS)"
+event_url = "https://www.cors2019.ca"
 
 # Abstract. What's your talk about?
-abstract = ""
+abstract = "In Mojalal et al (2019), the waiting time distribution for the lowest class in the Delayed Accumulating Priority Queue (APQ) is presented. In the Delayed APQ, lower priority class customers wait for fixed periods of time before accumulating priority, leading to longer waiting times over a regular APQ. We exploit a theorem in that paper to quantify the amount of reduction in the mean waiting time of class-1 customers over a regular APQ as a function of the value of the initial delay period d, in a 2-class Delayed APQ. We also quantify the corresponding increase for class-2 customers. Numerical examples will be presented."
 
 # Summary. An optional shortened abstract.
 summary = ""
