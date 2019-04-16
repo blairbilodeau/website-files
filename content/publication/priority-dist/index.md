@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Probability distribution for accumulated priority of high priority customers in the M/M/1 accumulating priority queue"
+title = "Probability distribution for bivariate process in the M/M/1 accumulating priority queue"
 
 # Date this page was created.
 date = 2018-08-17
@@ -20,7 +20,7 @@ authors = ["Blair L. Bilodeau", "David A. Stanford", "Peter Taylor", "Ilze Ziedi
 publication_types = ["3"]
 
 # Abstract.
-abstract = "We derived a closed-form for the Laplace-Stieltjes transform (LST) of the distribution of accumulated priority for high priority customers in the M/M/1 accumulating priority queue (APQ)."
+abstract = "We derived a closed-form for the Laplace-Stieltjes transform (LST) of the bivariate process in the M/M/1 accumulating priority queue (APQ)."
 
 # Project summary to display on homepage.
 summary = ""

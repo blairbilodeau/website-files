@@ -42,7 +42,7 @@ tags = []
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = ""
+url_slides = "slides.pdf"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
