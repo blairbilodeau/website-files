@@ -1,4 +1,5 @@
-TO PUBLISH SITE: (while in website-files)
+TO PUBLISH SITE: 
+cd /Users/blairbilodeau/Documents/Programming/website-files (get in website-files)
 
 hugo
 cd public
