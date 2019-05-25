@@ -3,7 +3,7 @@ title = "The average waiting time for both classes in a delayed accumulating pri
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-05-28T10:00:00
+date = 2019-05-27T13:45:00
 # date_end = 2030-06-01T15:00:00
 all_day = false
 
@@ -42,7 +42,7 @@ tags = []
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = ""
+url_slides = "slides.pdf"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
