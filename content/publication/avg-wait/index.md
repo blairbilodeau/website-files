@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Average waiting time for high priority customers in the M/G/1 affine accumulating priority queue"
+title = "Average waiting time for both customer classes in the M/G/1 delayed accumulating priority queue"
 
 # Date this page was created.
 date = 2019-02-01
@@ -20,7 +20,7 @@ authors = ["Blair L. Bilodeau", "David A. Stanford"]
 publication_types = ["3"]
 
 # Abstract.
-abstract = "Currently, we have derived the closed-form of the Laplace-Stieltjes transform (LST) for the probability distribution of accumulated priority for both classes in the M/M/1 accumulating priority queue (APQ). We aim to extend these results to the affine case, where the high priority class enters the system with some amount of initial credit. Prior work derived a form for the LST of the waiting time distribution for low priority customers which must be solved numerically. Our goal is to replace this with a closed-form solution through combinatorial path-counting methods, and then use this to compute the average waiting time for high priority customers. We can then apply a conservation law to obtain an important probability that characterizes the system, which we believe is crucial to deriving the LST of the waiting time distribution for high priority customers in the affine APQ."
+abstract = "Currently, we have derived the closed-form of the Laplace-Stieltjes transform (LST) for the probability distribution of accumulated priority for both classes in the M/M/1 accumulating priority queue (APQ). We aim to extend these results to the delayed case, where the low priority class waits for some amount of time before accumulating credit. Prior work derived a form for the LST of the waiting time distribution for low priority customers. Exploiting this as well as a conservation law, we are able to compute the high class average waiting time without knowledge of the distribution. This average allows us to quantify the effect of introducting a delay on both classes of customers, and we believe it is crucial to deriving the LST of the waiting time distribution for high priority customers in the delayed APQ."
 
 # Project summary to display on homepage.
 summary = ""

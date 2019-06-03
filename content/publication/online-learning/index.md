@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Weakening distributional assumptions related to binary prediction"
+title = "Data-dependent online learning regret bounds"
 
 # Date this page was created.
 date = 2019-02-12
@@ -20,7 +20,7 @@ authors = ["Blair L. Bilodeau", "Daniel M. Roy"]
 publication_types = ["3"]
 
 # Abstract.
-abstract = "This work is still very preliminary. We hope to relate the notion of 'nearly independent' data to predicting binary sequences."
+abstract = "This work is still very preliminary. We hope to relate the notion of 'nearly independent' data to online prediction."
 
 # Project summary to display on homepage.
 summary = ""

@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Student in Statistics"
+role = "PhD Candidate in Statistics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -73,6 +73,8 @@ user_groups = []
 
 +++
 
-I'm currently a PhD student in statistics at the [University of Toronto](https://www.statistics.utoronto.ca) under the supervision of [Daniel Roy](http://danroy.org). My research interests are in statistical learning theory and developing rigorous results to better understand the performance of modern machine learning models. This will improve the reliability and interpretability of these tools, which I believe is crucial to deploying them for decisions where human lives are at stake.
+I'm currently a PhD candidate in statistics at the [University of Toronto](https://www.statistics.utoronto.ca) under the supervision of [Daniel Roy](http://danroy.org). My research interests are in statistical learning theory and developing rigorous results to better understand the performance of modern machine learning models. This will improve the reliability and interpretability of these tools, which I believe is crucial to deploying them for decisions where human lives are at stake.
 
 My undergraduate studies were at [Western University](https://www.uwo.ca/stats/) in financial modelling and mathematics. While there, I spent two NSERC undergraduate student research awards working on queueing theory results with [David Stanford](https://www.uwo.ca/stats/people/bios/david-stanford.html).
+
+I am funded by an [NSERC PGS-D](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp) award, and previously held an [NSERC CGS-M](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp) award.
