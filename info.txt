@@ -13,4 +13,6 @@ https://sourcethemes.com/academic/docs/get-started/
 http://www.mit.edu/~k2smith/post/getting-started/
 https://gist.github.com/davfre/8313299
 
+LOCAL
 hugo server
+http://localhost:1313

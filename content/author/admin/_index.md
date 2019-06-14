@@ -47,7 +47,12 @@ user_groups = []
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:blair.bilodeau@mail.utoronto.ca"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:blair.bilodeau@mail.utoronto.ca"
+
+ [[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?hl=en&user=s1HQgDoAAAAJ"
 
 [[social]]
   icon = "twitter"
