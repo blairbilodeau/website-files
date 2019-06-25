@@ -20,8 +20,8 @@ authors = ["Blair L. Bilodeau", "David A. Stanford", "Mark Goldszmidt", "Andrew 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted to *Information Systems and Operational Research*"
-publication_short = "Accepted at *INFOR*"
+publication = "*INFOR: Information Systems and Operational Research*"
+publication_short = "*INFOR: Information Systems and Operational Research*"
 
 # Abstract.
 abstract = "Effective communication between nurses and physician teams on the internal medicine unit is crucial for high quality, safe, and efficient patient care. In our hos- pital of interest, a large academic health sciences centre, the physical layout of the unit, current admission process, and the presence of three separate physician teams contribute to uneven workload and communication barriers. We address this by physically co-locating each physician teams’ patients so as to facilitate physician- nurse collaboration, and more evenly distribute workload across all three teams. Based upon one year of real-world data, we developed a simulation model of in- patient flow through the internal medicine unit and determined the impact of two proposed changes: co-locating each team’s patients, and new admission rules for how patients are assigned to those teams. Under the new arrangement, each physician team would interact with roughly half the number of nurses, and nurses in turn would have fewer individual team members with whom to communicate, thereby improving effective communication and increasing time for direct patient care for both physicians and nurses."
@@ -30,7 +30,7 @@ abstract = "Effective communication between nurses and physician teams on the in
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1080/03155986.2019.1624475"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
