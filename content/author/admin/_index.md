@@ -83,3 +83,5 @@ I'm currently a PhD candidate in statistics at the [University of Toronto](https
 My undergraduate studies were at [Western University](https://www.uwo.ca/stats/) in financial modelling and mathematics. While there, I spent two NSERC undergraduate student research awards working on queueing theory results with [David Stanford](https://www.uwo.ca/stats/people/bios/david-stanford.html).
 
 I am funded by an [NSERC PGS-D](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp) award, and previously held an [NSERC CGS-M](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp) award.
+
+To view my curriculum vitae, [click here](cv/cv.pdf).
