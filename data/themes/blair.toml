@@ -1,0 +1,21 @@
+# Theme metadata
+name = "blair"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#1B80CA"
+primary_light = "#3363E3"
+primary_dark = "#298CE3"
+
+# Menu
+menu_primary = "#B4B4B4"
+menu_text = "#023867"
+menu_text_active = "#006FD1"
+menu_title = "#1B1B1B"
+
+# Backgrounds
+background = "#fff"
+home_section_odd = "#EAEAEA"
+home_section_even = "#E4E4E4"

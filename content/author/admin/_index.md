@@ -13,7 +13,7 @@ role = "PhD Candidate in Statistics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Toronto", url = "" } ]
+organizations = [ { name = "University of Toronto", url = "https://www.statistics.utoronto.ca" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -22,22 +22,23 @@ bio = ""
 # email = "blair.bilodeau@mail.utoronto.ca"
 
 # List (academic) interests or hobbies
-interests = []
+# interests = ["Statistical learning theory", "Model misspecification", "Online learning"]
+awards = ["NSERC PGS-D: 2019-2022", "NSERC CGS-M: 2018-2019", "NSERC USRA: 2017, 2018"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups = []
 
 # List qualifications (such as academic degrees)
-# [[education.courses]]
-#   course = "PhD, Statistics"
-#   institution = "University of Toronto"
-#   year = "2023 (expected)"
+ [[education.courses]]
+   course = "PhD, Statistics"
+   institution = "University of Toronto"
+   year = "2023 (expected)"
 
-# [[education.courses]]
-#   course = "BSc, Financial Modelling and Mathematics"
-#   institution = "Western University"
-#   year = "2014"
+ [[education.courses]]
+   course = "BSc, Financial Modelling"
+   institution = "Western University"
+   year = "2018"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,39 +50,39 @@ user_groups = []
   icon_pack = "fas"
   link = "mailto:blair.bilodeau@mail.utoronto.ca"
 
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/blairbilodeau"
+
  [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?hl=en&user=s1HQgDoAAAAJ"
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/blairbilodeau"
-
-[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/blairbilodeau"
 
- [[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/blair-bilodeau-a30138a6/"
+# [[social]]
+#  icon = "linkedin"
+#  icon_pack = "fab"
+#  link = "https://www.linkedin.com/in/blair-bilodeau-a30138a6/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
 #   icon = "cv"
 #   icon_pack = "ai"
-#   link = "files/cv.pdf"
+#   link = "cv/cv.pdf"
 
 +++
 
-I'm currently a PhD candidate in statistics at the [University of Toronto](https://www.statistics.utoronto.ca) under the supervision of [Daniel Roy](http://danroy.org). My research interests are in statistical learning theory and developing rigorous results to better understand the performance of modern machine learning models. This will improve the reliability and interpretability of these tools, which I believe is crucial to deploying them for decisions where human lives are at stake.
+Under the supervision of [Daniel Roy](http://danroy.org), I'm working to make theoretical advancements in fundamental machine learning. I'm interested in generalization error and concentration inequalities that are comparable to current empirical results. Recently, I've been looking at these in the context of sequential prediction, and am trying to quantify some notion of model misspecification in this framework. Progress in this area will improve the reliability and interpretability of modern algorithms, which I believe is crucial to deploying them for decisions where human lives are at stake.
 
-My undergraduate studies were at [Western University](https://www.uwo.ca/stats/) in financial modelling and mathematics. While there, I spent two NSERC undergraduate student research awards working on queueing theory results with [David Stanford](https://www.uwo.ca/stats/people/bios/david-stanford.html).
+I have also spent time working on queueing theory results with [David Stanford](https://www.uwo.ca/stats/people/bios/david-stanford.html), and I'm actively involved in these projects as they develop.
 
-I am funded by an [NSERC PGS-D](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp) award, and previously held an [NSERC CGS-M](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp) award.
+<!-- I am funded by an [NSERC PGS-D](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp) award, and previously held an [NSERC CGS-M](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp) award. -->
 
 To view my curriculum vitae, [click here](cv/cv.pdf).

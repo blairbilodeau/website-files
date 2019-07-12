@@ -16,3 +16,6 @@ https://gist.github.com/davfre/8313299
 LOCAL
 hugo server
 http://localhost:1313
+
+dark mode in safari: go to assets/js/academic.js 
+line 420 let dark_mode = 0; is forcing that.

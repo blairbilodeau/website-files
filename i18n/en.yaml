@@ -69,6 +69,9 @@
 
 # About widget
 
+- id: awards
+  translation: Funding
+
 - id: interests
   translation: Interests
 

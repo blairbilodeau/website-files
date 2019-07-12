@@ -32,6 +32,7 @@ copyright = "&copy; Blair Bilodeau 2019"
 
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
+# custom_css = ["green.css"]
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -70,3 +71,6 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+[params]
+  themeVariant = "blair"
