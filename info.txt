@@ -5,7 +5,7 @@ hugo
 cd public
 git add .
 git commit -m "Build website"
-git push origin master
+git push origin master 
 cd ..
 
 HELP
@@ -16,6 +16,12 @@ https://gist.github.com/davfre/8313299
 LOCAL
 hugo server
 http://localhost:1313
+ctrl+c
+git add .
+git commit -m "Build website"
+git push upstream master 
 
 dark mode in safari: go to assets/js/academic.js 
 line 420 let dark_mode = 0; is forcing that.
+
+use main.css for color updates
