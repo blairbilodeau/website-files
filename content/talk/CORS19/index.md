@@ -55,7 +55,7 @@ projects = []
 # Links (optional).
 url_pdf = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/blairbilodeau/delayed-apq-avg-wait"
 
 # Demo talk page uses LaTeX math.
 math = true
