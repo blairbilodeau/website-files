@@ -60,7 +60,7 @@ url_preprint = "publication/colocation/preprint.pdf"
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/blairbilodeau/NSERC-USRA-2017"
+url_code = "https://github.com/blairbilodeau/internal-medicine-simulation"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
