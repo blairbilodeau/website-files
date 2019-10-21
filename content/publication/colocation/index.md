@@ -56,9 +56,9 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_preprint = "publication/colocation/preprint.pdf"
-url_pdf = ""
-url_slides = ""
+url_preprint = ""
+url_pdf = "publication/colocation/preprint.pdf"
+url_slides = "publication/colocation/slides.pdf"
 url_video = ""
 url_code = "https://github.com/blairbilodeau/internal-medicine-simulation"
 

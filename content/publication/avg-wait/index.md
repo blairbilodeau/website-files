@@ -1,9 +1,9 @@
 +++
 # Project title.
-title = "Average waiting time for both customer classes in the M/G/1 delayed accumulating priority queue"
+title = "The average waiting time for both classes in a delayed accumulating priority queue"
 
 # Date this page was created.
-date = 2019-02-01
+date = 2019-08-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Blair L. Bilodeau", "David A. Stanford"]
@@ -18,6 +18,10 @@ authors = ["Blair L. Bilodeau", "David A. Stanford"]
 # 5 = Book
 # 6 = Book chapter
 publication_types = ["3"]
+
+# Publication name and optional abbreviated version.
+publication = "*working paper*"
+publication_short = "*working paper*"
 
 # Abstract.
 abstract = "Currently, we have derived the closed-form of the Laplace-Stieltjes transform (LST) for the probability distribution of accumulated priority for both classes in the M/M/1 accumulating priority queue (APQ). We aim to extend these results to the delayed case, where the low priority class waits for some amount of time before accumulating credit. Prior work derived a form for the LST of the waiting time distribution for low priority customers. Exploiting this as well as a conservation law, we are able to compute the high class average waiting time without knowledge of the distribution. This average allows us to quantify the effect of introducting a delay on both classes of customers, and we believe it is crucial to deriving the LST of the waiting time distribution for high priority customers in the delayed APQ."
@@ -54,9 +58,9 @@ slides = ""
 # Links (optional).
 url_preprint = ""
 url_pdf = ""
-url_slides = ""
+url_slides = "publication/avg-wait/slides.pdf"
 url_video = ""
-url_code = ""
+url_code = "https://github.com/blairbilodeau/delayed-apq-avg-wait"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

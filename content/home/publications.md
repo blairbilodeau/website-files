@@ -6,7 +6,7 @@ widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Publications"
+title = "Papers"
 subtitle = ""
 
 [content]
@@ -26,7 +26,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "2"
+    publication_type = ""
     exclude_featured = false
   
 [design]
@@ -35,7 +35,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.

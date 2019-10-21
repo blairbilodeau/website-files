@@ -1,10 +1,10 @@
 +++
 # Portfolio widget.
-widget = "portfolio"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+widget = "pages"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Side Projects"
+title = "Projects"
 subtitle = ""
 
 [content]
@@ -24,13 +24,13 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
