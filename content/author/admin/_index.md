@@ -13,7 +13,7 @@ role = "PhD Candidate in Statistics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Toronto", url = "https://www.statistics.utoronto.ca" } ]
+organizations = [ { name = "University of Toronto", url = "https://www.statistics.utoronto.ca" }, {name = "Vector Institute", url = "https://vectorinstitute.ai"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -79,7 +79,11 @@ user_groups = []
 
 +++
 
-Under the supervision of [Daniel Roy](http://danroy.org), I'm working to make theoretical advancements in fundamental machine learning. I'm interested in generalization error and concentration inequalities that are comparable to current empirical results. Recently, I've been looking at these in the context of sequential prediction, and am trying to quantify some notion of model misspecification in this framework. Progress in this area will improve the reliability and interpretability of modern algorithms, which I believe is crucial to deploying them for decisions where human lives are at stake.
+I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca) and the [Vector Institute](https://vectorinstitute.ai). From January to March 2020 I will be a visting researcher at the Institute for Advanced Study in Princeton as part of their [Special Year](https://www.math.ias.edu/sp/Optimization_Statistics_and_Theoretical_Machine_Learning) on Optimization, Statistics, and Theoretical Machine Learning.
+
+My interests are broadly in online learning, bandit algorithms, and data-dependent generalization error. Recently, I've been trying to derive regret bounds that are adaptable to adversarial and benign situations for non-Lipschitz loss. 
+
+I believe that the large gap between theory and practice in machine learning must be closed to improve the reliability and interpretability of modern algorithms, which is crucial to deploying them for decisions where human lives are at stake.
 
 I have also spent time working on queueing theory results with [David Stanford](https://www.uwo.ca/stats/people/bios/david-stanford.html), and I'm actively involved in these projects as they develop.
 
