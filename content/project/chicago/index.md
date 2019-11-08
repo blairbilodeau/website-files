@@ -8,7 +8,7 @@ title = "An analysis of spatial crime data in Chicago"
 date = 2018-12-19
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["B.L. Bilodeau"]
+authors = ["Blair Bilodeau"]
 
 # Abstract.
 abstract = "Final report for STA2101: Methods of Applied Statistics I at the University of Toronto."

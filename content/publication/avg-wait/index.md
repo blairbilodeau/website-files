@@ -6,7 +6,7 @@ title = "The average waiting time for both classes in a delayed accumulating pri
 date = 2019-08-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Blair L. Bilodeau", "David A. Stanford"]
+authors = ["Blair Bilodeau", "David A. Stanford"]
 
 # Publication type.
 # Legend:

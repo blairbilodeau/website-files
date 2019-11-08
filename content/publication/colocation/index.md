@@ -6,7 +6,7 @@ title = "Simulated co-location of patients admitted to an inpatient internal med
 date = 2019-02-12
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Blair L. Bilodeau", "David A. Stanford", "Mark Goldszmidt", "Andrew Appleton"]
+authors = ["Blair Bilodeau", "David A. Stanford", "Mark Goldszmidt", "Andrew Appleton"]
 
 # Publication type.
 # Legend:
