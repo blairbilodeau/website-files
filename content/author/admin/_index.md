@@ -55,15 +55,20 @@ user_groups = []
   icon_pack = "fab"
   link = "https://twitter.com/blairbilodeau"
 
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/blairbilodeau"
+
  [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?hl=en&user=s1HQgDoAAAAJ"
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/blairbilodeau"
+ [[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-3933-1427"
 
 # [[social]]
 #  icon = "linkedin"
@@ -81,9 +86,9 @@ user_groups = []
 
 I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca) and the [Vector Institute](https://vectorinstitute.ai). From January to March 2020 I will be a visting researcher at the Institute for Advanced Study in Princeton as part of their [Special Year](https://www.math.ias.edu/sp/Optimization_Statistics_and_Theoretical_Machine_Learning) on Optimization, Statistics, and Theoretical Machine Learning.
 
-My interests are broadly in online learning, bandit algorithms, and data-dependent generalization error. Recently, I've been trying to derive regret bounds that are adaptable to adversarial and benign situations for non-Lipschitz loss. 
+My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity. Recently, I've been trying to derive online regret bounds that are adaptable to adversarial and benign situations for non-Lipschitz loss. 
 
-I believe that the large gap between theory and practice in machine learning must be closed to improve the reliability and interpretability of modern algorithms, which is crucial to deploying them for decisions where human lives are at stake.
+In general, I believe that the large gap between theory and practice in machine learning must be closed to improve the reliability and interpretability of modern algorithms, which is crucial to deploying them for decisions where human lives are at stake. This ideal means I am interested in results which are consistent with or explain those seen by actual practitioners.
 
 I have also spent time working on queueing theory results with [David Stanford](https://www.uwo.ca/stats/people/bios/david-stanford.html), and I'm actively involved in these projects as they develop.
 
