@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "The average waiting time for both classes in a delayed accumulating priority queue"
+title = "Average waiting times in the two-class M/G/1 Delayed Accumulating Priority Queue"
 
 # Date this page was created.
 date = 2019-08-01
@@ -20,11 +20,11 @@ authors = ["Blair Bilodeau", "David A. Stanford"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*working paper*"
-publication_short = "*working paper*"
+publication = "*Submitted to* Operations Research for Health Care"
+publication_short = "*Submitted to* Operations Research for Health Care"
 
 # Abstract.
-abstract = "Currently, we have derived the closed-form of the Laplace-Stieltjes transform (LST) for the probability distribution of accumulated priority for both classes in the M/M/1 accumulating priority queue (APQ). We aim to extend these results to the delayed case, where the low priority class waits for some amount of time before accumulating credit. Prior work derived a form for the LST of the waiting time distribution for low priority customers. Exploiting this as well as a conservation law, we are able to compute the high class average waiting time without knowledge of the distribution. This average allows us to quantify the effect of introducting a delay on both classes of customers, and we believe it is crucial to deriving the LST of the waiting time distribution for high priority customers in the delayed APQ."
+abstract = "Previously, \citet{mojalal19} gave an expression for the waiting time distribution of low priority customers in the Delayed Accumulating Priority Queue, but with no quantification of the effect on others in system. We provide an analytical expression for the expected waiting time of both high and low priority customers by exploiting a conservation law for work conserving queues. Our expression can be efficiently implemented numerically, requiring only the truncation of sums which converge exponentially quickly. This enables us to use common key performance indicators to demonstrate how the accumulation rate and delay level should be chosen by health care practitioners."
 
 # Project summary to display on homepage.
 summary = ""
@@ -57,7 +57,7 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_pdf = ""
+url_pdf = "https://arxiv.org/pdf/2001.06054.pdf"
 url_slides = "publication/avg-wait/slides.pdf"
 url_video = ""
 url_code = "https://github.com/blairbilodeau/delayed-apq-avg-wait"
