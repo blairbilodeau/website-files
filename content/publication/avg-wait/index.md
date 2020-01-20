@@ -24,7 +24,7 @@ publication = "*Submitted to* Operations Research for Health Care"
 publication_short = "*Submitted to* Operations Research for Health Care"
 
 # Abstract.
-abstract = "Previously, \citet{mojalal19} gave an expression for the waiting time distribution of low priority customers in the Delayed Accumulating Priority Queue, but with no quantification of the effect on others in system. We provide an analytical expression for the expected waiting time of both high and low priority customers by exploiting a conservation law for work conserving queues. Our expression can be efficiently implemented numerically, requiring only the truncation of sums which converge exponentially quickly. This enables us to use common key performance indicators to demonstrate how the accumulation rate and delay level should be chosen by health care practitioners."
+abstract = "Previously, Mojalal et al. (2019) gave an expression for the waiting time distribution of low priority customers in the Delayed Accumulating Priority Queue, but with no quantification of the effect on others in system. We provide an analytical expression for the expected waiting time of both high and low priority customers by exploiting a conservation law for work conserving queues. Our expression can be efficiently implemented numerically, requiring only the truncation of sums which converge exponentially quickly. This enables us to use common key performance indicators to demonstrate how the accumulation rate and delay level should be chosen by health care practitioners."
 
 # Project summary to display on homepage.
 summary = ""
