@@ -22,8 +22,8 @@ bio = ""
 # email = "blair.bilodeau@mail.utoronto.ca"
 
 # List (academic) interests or hobbies
-# interests = ["Statistical learning theory", "Model misspecification", "Online learning"]
-awards = ["NSERC CGS-D: 2019-2022", "NSERC CGS-M: 2018-2019", "NSERC USRA: 2017, 2018"]
+interests = ["Statistical learning theory", "Model misspecification", "Online learning", "Domain adaptation"]
+# awards = ["NSERC CGS-D: 2019-2022", "NSERC CGS-M: 2018-2019", "NSERC USRA: 2017, 2018"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
