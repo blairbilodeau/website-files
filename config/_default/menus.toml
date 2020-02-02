@@ -35,10 +35,10 @@
   url = "cv/cv.pdf"
   weight = 15
 
-[[main]]
-  name = "Consulting"
-  url = "#consulting"
-  weight = 50
+# [[main]]
+#  name = "Consulting"
+#  url = "#consulting"
+#  weight = 50
 
 [[main]]
    name = "Contact"

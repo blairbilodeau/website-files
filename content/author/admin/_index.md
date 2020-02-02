@@ -22,7 +22,7 @@ bio = ""
 # email = "blair.bilodeau@mail.utoronto.ca"
 
 # List (academic) interests or hobbies
-interests = ["Statistical learning theory", "Model misspecification", "Online learning", "Domain adaptation"]
+interests = ["Online learning", "Statistical complexity theory", "Dimension-free regret", "Domain adaptation"]
 # awards = ["NSERC CGS-D: 2019-2022", "NSERC CGS-M: 2018-2019", "NSERC USRA: 2017, 2018"]
 
 # Organizational groups that you belong to (for People widget)
@@ -84,7 +84,7 @@ user_groups = []
 
 +++
 
-I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca) and the [Vector Institute](https://vectorinstitute.ai). From January to March 2020 I will be visiting the Institute for Advanced Study in Princeton as part of their [Special Year](https://www.math.ias.edu/sp/Optimization_Statistics_and_Theoretical_Machine_Learning) on Optimization, Statistics, and Theoretical Machine Learning.
+I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca) and the [Vector Institute](https://vectorinstitute.ai), and am supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp). From January to March 2020 I will be visiting the Institute for Advanced Study in Princeton as part of their [Special Year](https://www.math.ias.edu/sp/Optimization_Statistics_and_Theoretical_Machine_Learning) on Optimization, Statistics, and Theoretical Machine Learning.
 
 My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity. Recently, I've been trying to derive online regret bounds that are adaptable to adversarial and benign situations for non-Lipschitz loss. 
 
