@@ -22,7 +22,7 @@ bio = ""
 # email = "blair.bilodeau@mail.utoronto.ca"
 
 # List (academic) interests or hobbies
-interests = ["Online learning", "Statistical complexity theory", "Dimension-free regret", "Domain adaptation"]
+interests = ["Online learning", "Statistical complexity", "Dimension-free regret", "Domain adaptation"]
 # awards = ["NSERC CGS-D: 2019-2022", "NSERC CGS-M: 2018-2019", "NSERC USRA: 2017, 2018"]
 
 # Organizational groups that you belong to (for People widget)
