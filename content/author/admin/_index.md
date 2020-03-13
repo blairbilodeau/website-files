@@ -84,11 +84,9 @@ user_groups = []
 
 +++
 
-I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca) and the [Vector Institute](https://vectorinstitute.ai), and am supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp). From January to March 2020 I will be visiting the Institute for Advanced Study in Princeton as part of their [Special Year](https://www.math.ias.edu/sp/Optimization_Statistics_and_Theoretical_Machine_Learning) on Optimization, Statistics, and Theoretical Machine Learning.
+I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca) and the [Vector Institute](https://vectorinstitute.ai), and am supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp).
 
-My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity. Recently, I've been trying to derive online regret bounds that are adaptable to adversarial and benign situations for non-Lipschitz loss. 
-
-In general, I believe that the large gap between theory and practice in machine learning must be closed to improve the reliability and interpretability of modern algorithms, which is crucial to deploying them for decisions where human lives are at stake. This ideal means I am interested in results which are consistent with or explain those seen by actual practitioners.
+My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity. I believe that the large gap between theory and practice in machine learning must be closed to improve the reliability and interpretability of modern algorithms, which is crucial to deploying them for decisions where human lives are at stake. By using online learning as a framework to understand and quantify the necessity of common assumptions made in machine learning models, I aim to reconcile theoretical guarantees with results seen by actual practitioners.
 
 I have also spent time working on queueing theory results with [David Stanford](https://www.uwo.ca/stats/people/bios/david-stanford.html), and I'm actively involved in these projects as they develop.
 
