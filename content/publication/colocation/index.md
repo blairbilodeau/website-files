@@ -3,7 +3,7 @@
 title = "Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration"
 
 # Date this page was created.
-date = 2019-02-12
+date = 2019-05-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Blair Bilodeau", "David A. Stanford", "Mark Goldszmidt", "Andrew Appleton"]
