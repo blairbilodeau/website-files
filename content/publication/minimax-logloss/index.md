@@ -20,7 +20,7 @@ authors = ["Blair Bilodeau", "Dylan J. Foster", "Daniel M. Roy"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Submitted to International Conference on Machine Learning*"
+publication = "In submission"
 publication_short = "In submission"
 
 # Abstract.
