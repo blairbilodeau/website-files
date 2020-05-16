@@ -84,7 +84,7 @@ user_groups = []
 
 +++
 
-I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca) and the [Vector Institute](https://vectorinstitute.ai), and am supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp).
+I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca) and the [Vector Institute](https://vectorinstitute.ai), and supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp).
 
 My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity. I believe it is crucial to close the gap between theory and practice for modern machine learning algorithms, particularly to improve the reliability and interpretability of algorithms when deploying them for decisions where human lives are at stake. Using online learning as a framework to understand and quantify the necessity of common assumptions made in machine learning models, I aim to reconcile theoretical guarantees with results seen by actual practitioners.
 
