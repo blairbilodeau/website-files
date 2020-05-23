@@ -2,16 +2,16 @@
 type= "project"
 
 # Project title.
-title = "An analysis of spatial crime data in Chicago"
+title = "A web scraper to search arXiv and biorXiv"
 
 # Date this page was created.
-date = 2018-12-19
+date = 2020-05-23
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Blair Bilodeau"]
 
 # Abstract.
-abstract = "Final report for STA2101: Methods of Applied Statistics I at the University of Toronto."
+abstract = "Python script to facilitate easy automatic pulling of new papers from Arxiv, Biorxiv, and Medrxiv with custom search features."
 
 # Project summary to display on homepage.
 summary = ""
@@ -44,10 +44,10 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_pdf = "project/chicago/report.pdf"
-url_slides = ""
+url_pdf = ""
+url_slides = "project/arxiv-biorxiv/cssc-slides.pdf"
 url_video = ""
-url_code = "https://github.com/blairbilodeau/crimes_in_chicago"
+url_code = "https://github.com/blairbilodeau/arxiv-biorxiv-search"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -64,4 +64,4 @@ url_code = "https://github.com/blairbilodeau/crimes_in_chicago"
   # focal_point = "Smart"
 +++
 
-Final report for STA2101: Methods of Applied Statistics I at the University of Toronto.
+Python script to facilitate easy automatic pulling of new papers from Arxiv, Biorxiv, and Medrxiv with custom search features.

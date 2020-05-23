@@ -2,16 +2,16 @@
 type= "project"
 
 # Project title.
-title = "An analysis of spatial crime data in Chicago"
+title = "Spatial analysis examples"
 
 # Date this page was created.
-date = 2018-12-19
+date = 2019-04-10
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Blair Bilodeau"]
 
 # Abstract.
-abstract = "Final report for STA2101: Methods of Applied Statistics I at the University of Toronto."
+abstract = "Homework for STA2201: Methods of Applied Statistics II at the University of Toronto."
 
 # Project summary to display on homepage.
 summary = ""
@@ -44,10 +44,10 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_pdf = "project/chicago/report.pdf"
+url_pdf = "project/spatial/spatial.pdf"
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/blairbilodeau/crimes_in_chicago"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -64,4 +64,4 @@ url_code = "https://github.com/blairbilodeau/crimes_in_chicago"
   # focal_point = "Smart"
 +++
 
-Final report for STA2101: Methods of Applied Statistics I at the University of Toronto.
+Homework for STA2201: Methods of Applied Statistics II at the University of Toronto.
