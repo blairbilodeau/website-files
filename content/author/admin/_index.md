@@ -65,10 +65,10 @@ user_groups = []
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?hl=en&user=s1HQgDoAAAAJ"
 
- [[social]]
-  icon = "orcid"
-  icon_pack = "ai"
-  link = "https://orcid.org/0000-0002-3933-1427"
+# [[social]]
+#  icon = "orcid"
+#  icon_pack = "ai"
+#  link = "https://orcid.org/0000-0002-3933-1427"
 
 # [[social]]
 #  icon = "linkedin"
