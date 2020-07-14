@@ -20,8 +20,8 @@ authors = ["Blair Bilodeau", "Dylan J. Foster", "Daniel M. Roy"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*International Conference on Machine Learning*"
-publication_short = "*International Conference on Machine Learning*"
+publication = "International Conference on Machine Learning"
+publication_short = "International Conference on Machine Learning"
 
 # Abstract.
 abstract = "We consider the classical problem of sequential probability assignment under logarithmic loss while competing against an arbitrary, potentially nonparametric class of experts. We obtain improved bounds on the minimax regret via a new approach that exploits the self-concordance property of the logarithmic loss. We show that for any expert class with (sequential) metric entropy O(gamma^{-p}) at scale gamma, the minimax regret is O(n^{p/(p+1)}), and that this rate cannot be improved without additional assumptions on the expert class under consideration. As an application of our techniques, we resolve the minimax regret for nonparametric Lipschitz classes of experts."
@@ -60,7 +60,7 @@ url_preprint = ""
 url_poster = "publication/minimax-logloss/poster.pdf"
 url_pdf = "https://arxiv.org/abs/2007.01160"
 url_slides = "publication/minimax-logloss/icml-slides.pdf"
-url_video = ""
+url_video = "https://icml.cc/virtual/2020/poster/6768"
 url_code = ""
 
 # Custom links (optional).

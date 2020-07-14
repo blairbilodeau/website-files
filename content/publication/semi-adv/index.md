@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration"
+title = "Relaxing the i.i.d. assumption: Adaptive minimax optimal sequential prediction with expert advice"
 
 # Date this page was created.
-date = 2019-05-01
+date = 2020-07-13
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Blair Bilodeau", "David A. Stanford", "Mark Goldszmidt", "Andrew Appleton"]
+authors = ["Blair Bilodeau*", "Jeffrey Negrea*", "Daniel M. Roy"]
 
 # Publication type.
 # Legend:
@@ -17,20 +17,20 @@ authors = ["Blair Bilodeau", "David A. Stanford", "Mark Goldszmidt", "Andrew App
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "INFOR: Information Systems and Operational Research"
-publication_short = "INFOR: Information Systems and Operational Research"
+publication = "arXiv Preprint"
+publication_short = "arXiv Preprint"
 
 # Abstract.
-abstract = "Effective communication between nurses and physician teams on the internal medicine unit is crucial for high quality, safe, and efficient patient care. In our hos- pital of interest, a large academic health sciences centre, the physical layout of the unit, current admission process, and the presence of three separate physician teams contribute to uneven workload and communication barriers. We address this by physically co-locating each physician teams’ patients so as to facilitate physician- nurse collaboration, and more evenly distribute workload across all three teams. Based upon one year of real-world data, we developed a simulation model of in- patient flow through the internal medicine unit and determined the impact of two proposed changes: co-locating each team’s patients, and new admission rules for how patients are assigned to those teams. Under the new arrangement, each physician team would interact with roughly half the number of nurses, and nurses in turn would have fewer individual team members with whom to communicate, thereby improving effective communication and increasing time for direct patient care for both physicians and nurses."
+abstract = "We consider sequential prediction with expert advice when the data are generated stochastically, but the distributions generating the data may vary arbitrarily among some constraint set. We quantify relaxations of the classical i.i.d. assumption in terms of possible constraint sets, with i.i.d. at one extreme, and an adversarial mechanism at the other. The Hedge algorithm, long known to be minimax optimal in the adversarial regime, has recently been shown to also be minimax optimal in the i.i.d. setting. We show that Hedge is suboptimal between these extremes, and present a new algorithm that is adaptively minimax optimal with respect to our relaxations of the i.i.d. assumption, without knowledge of which setting prevails."
 
 # Project summary to display on homepage.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1080/03155986.2019.1624475"
+doi = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -57,10 +57,11 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_pdf = "publication/colocation/preprint.pdf"
-url_slides = "publication/colocation/slides.pdf"
+url_poster = ""
+url_pdf = "https://arxiv.org/abs/2007.06552"
+url_slides = ""
 url_video = ""
-url_code = "https://github.com/blairbilodeau/internal-medicine-simulation"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

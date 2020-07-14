@@ -20,8 +20,8 @@ authors = ["Blair Bilodeau", "David A. Stanford"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*In Submission*"
-publication_short = "*In Submission*"
+publication = "arXiv Preprint"
+publication_short = "arXiv Preprint"
 
 # Abstract.
 abstract = "Previously, Mojalal et al. (2019) gave an expression for the waiting time distribution of low priority customers in the Delayed Accumulating Priority Queue, but with no quantification of the effect on others in system. We provide an analytical expression for the expected waiting time of both high and low priority customers by exploiting a conservation law for work conserving queues. Our expression can be efficiently implemented numerically, requiring only the truncation of sums which converge exponentially quickly. This enables us to use common key performance indicators to demonstrate how the accumulation rate and delay level should be chosen by health care practitioners."
