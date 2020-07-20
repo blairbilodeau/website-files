@@ -60,7 +60,7 @@ url_preprint = ""
 url_poster = "publication/minimax-logloss/poster.pdf"
 url_pdf = "https://arxiv.org/abs/2007.01160"
 url_slides = "publication/minimax-logloss/icml-slides.pdf"
-url_video = "https://icml.cc/virtual/2020/poster/6768"
+url_video = ""
 url_code = ""
 
 # Custom links (optional).
