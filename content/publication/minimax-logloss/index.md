@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Improved bounds on minimax regret under logarithmic loss via self-concordance"
+title = "Tight bounds on minimax regret under logarithmic loss via self-concordance"
 
 # Date this page was created.
 date = 2020-02-15
@@ -24,7 +24,7 @@ publication = "International Conference on Machine Learning"
 publication_short = "International Conference on Machine Learning"
 
 # Abstract.
-abstract = "We consider the classical problem of sequential probability assignment under logarithmic loss while competing against an arbitrary, potentially nonparametric class of experts. We obtain improved bounds on the minimax regret via a new approach that exploits the self-concordance property of the logarithmic loss. We show that for any expert class with (sequential) metric entropy O(gamma^{-p}) at scale gamma, the minimax regret is O(n^{p/(p+1)}), and that this rate cannot be improved without additional assumptions on the expert class under consideration. As an application of our techniques, we resolve the minimax regret for nonparametric Lipschitz classes of experts."
+abstract = "We consider the classical problem of sequential probability assignment under logarithmic loss while competing against an arbitrary, potentially nonparametric class of experts. We obtain tight bounds on the minimax regret via a new approach that exploits the self-concordance property of the logarithmic loss. We show that for any expert class with (sequential) metric entropy O(gamma^{-p}) at scale gamma, the minimax regret is O(n^{p/(p+1)}), and that this rate cannot be improved without additional assumptions on the expert class under consideration. As an application of our techniques, we resolve the minimax regret for nonparametric Lipschitz classes of experts."
 
 # Project summary to display on homepage.
 summary = ""
@@ -57,7 +57,7 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_poster = "publication/minimax-logloss/poster.pdf"
+url_poster = "publication/minimax-logloss/jsm-poster.pdf"
 url_pdf = "https://arxiv.org/abs/2007.01160"
 url_slides = "publication/minimax-logloss/icml-slides.pdf"
 url_video = ""
