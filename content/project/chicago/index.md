@@ -2,7 +2,7 @@
 type= "project"
 
 # Project title.
-title = "An analysis of spatial crime data in Chicago"
+title = "Spatial Analysis of Crime in Chicago"
 
 # Date this page was created.
 date = 2018-12-19

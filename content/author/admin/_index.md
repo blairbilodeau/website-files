@@ -88,7 +88,7 @@ I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at 
 
 My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity. I believe it is crucial to close the gap between theory and practice for modern machine learning algorithms, particularly to improve the reliability and interpretability of algorithms when deploying them for decisions where human lives are at stake. Using online learning as a framework to understand and quantify the necessity of common assumptions made in machine learning models, I aim to reconcile theoretical guarantees with results seen by actual practitioners.
 
-I have also spent time working on queueing theory results with [David Stanford](https://www.uwo.ca/stats/people/bios/david-stanford.html), and I'm actively involved in these projects as they develop.
+<!-- I have also spent time working on queueing theory results with [David Stanford](https://www.uwo.ca/stats/people/bios/david-stanford.html), and I'm actively involved in these projects as they develop. -->
 
 <!-- I am funded by an [NSERC PGS-D](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp) award, and previously held an [NSERC CGS-M](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp) award. -->
 

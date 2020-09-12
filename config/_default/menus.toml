@@ -40,9 +40,9 @@
 #  url = "#consulting"
 #  weight = 50
 
-[[main]]
-   name = "Contact"
-   url = "#contact"
-   weight = 100
+# [[main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 100
 
 

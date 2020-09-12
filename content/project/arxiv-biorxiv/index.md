@@ -2,7 +2,7 @@
 type= "project"
 
 # Project title.
-title = "A web scraper to search arXiv and biorXiv"
+title = "Scripts to Scrape Data from arXiv and biorXiv"
 
 # Date this page was created.
 date = 2020-05-23

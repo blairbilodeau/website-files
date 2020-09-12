@@ -2,16 +2,16 @@
 type= "project"
 
 # Project title.
-title = "Spatial Analysis Examples"
+title = "Undergraduate Probability Theory Course Notes"
 
 # Date this page was created.
-date = 2019-04-10
+date = 2020-07-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Blair Bilodeau"]
 
 # Abstract.
-abstract = "Homework for STA2201: Methods of Applied Statistics II at the University of Toronto."
+abstract = "Course notes I made for teaching STA347: Probability Theory at the University of Toronto in Summer 2020."
 
 # Project summary to display on homepage.
 summary = ""
@@ -44,7 +44,7 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_pdf = "project/spatial/spatial.pdf"
+url_pdf = "project/sta347/probability.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -64,4 +64,4 @@ url_code = ""
   # focal_point = "Smart"
 +++
 
-Homework for STA2201: Methods of Applied Statistics II at the University of Toronto.
+Course notes I made for teaching STA347: Probability Theory at the University of Toronto in Summer 2020.
