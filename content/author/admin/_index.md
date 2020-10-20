@@ -86,7 +86,7 @@ user_groups = []
 
 I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca), supported by the [Vector Institute](https://vectorinstitute.ai) and an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp). I received my BSc in Financial Mathematics from [Western University](https://www.uwo.ca/stats/) in 2018.
 
-My research area is broadly statistical machine learning, and in particular theoretical performance guarantees for various sequential prediction settings. Some problems I'm currently thinking about are:
+My research area is broadly statistical machine learning, with a focus on theoretical performance guarantees for various sequential prediction settings. Some problems I'm currently thinking about are:
 
 **Adaptivity**: How can we characterize the difficulty of learning data beyond classical stationary dependence structures and design algorithms that adapt to these difficulty notions? 
 
