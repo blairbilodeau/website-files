@@ -22,7 +22,7 @@ bio = ""
 # email = "blair.bilodeau@mail.utoronto.ca"
 
 # List (academic) interests or hobbies
-interests = ["Online learning", "Statistical complexity", "Dimension-free regret", "Domain adaptation"]
+# interests = ["Online learning", "Statistical complexity", "Dimension-free regret", "Domain adaptation"]
 # awards = ["NSERC CGS-D: 2019-2022", "NSERC CGS-M: 2018-2019", "NSERC USRA: 2017, 2018"]
 
 # Organizational groups that you belong to (for People widget)
@@ -30,15 +30,15 @@ interests = ["Online learning", "Statistical complexity", "Dimension-free regret
 user_groups = []
 
 # List qualifications (such as academic degrees)
- [[education.courses]]
-   course = "PhD, Statistics"
-   institution = "University of Toronto"
-   year = "2023 (expected)"
+# [[education.courses]]
+#   course = "PhD, Statistics"
+#   institution = "University of Toronto"
+#   year = "2023 (expected)"
 
- [[education.courses]]
-   course = "BSc, Financial Modelling"
-   institution = "Western University"
-   year = "2018"
+# [[education.courses]]
+#   course = "BSc, Financial Modelling"
+#   institution = "Western University"
+#   year = "2018"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -84,9 +84,17 @@ user_groups = []
 
 +++
 
-I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca) and the [Vector Institute](https://vectorinstitute.ai), and supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp).
+I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca), supported by the [Vector Institute](https://vectorinstitute.ai) and an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp). I received my BSc in Financial Mathematics from [Western University](https://www.uwo.ca/stats/) in 2018.
 
-My research area is broadly theoretical machine learning, where I work on generalization error, online learning theory, and statistical complexity. I believe it is crucial to close the gap between theory and practice for modern machine learning algorithms, particularly to improve the reliability and interpretability of algorithms when deploying them for decisions where human lives are at stake. Using online learning as a framework to understand and quantify the necessity of common assumptions made in machine learning models, I aim to reconcile theoretical guarantees with results seen by actual practitioners.
+My research area is broadly statistical machine learning, and in particular theoretical performance guarantees for various sequential prediction settings. Some problems I'm currently thinking about are:
+
+**Adaptivity**: How can we characterize the difficulty of learning data beyond classical stationary dependence structures and design algorithms that adapt to these difficulty notions? 
+
+**Statistical Complexities**: Existing notions of predictor and algorithm complexity may be vacuous or suboptimal for modern machine learning systems. What are the right notions of complexity that lead to matching theoretical guarantees on empirical performance?
+
+**Domain Adaptation**: Empirical performance has far outpaced the theory for the broad problem of learning data with few or no labels. What are the correct theoretical formalizations of these tasks that will lead to sample complexity guarantees similar to those seen in practice?
+
+<!-- I believe it is crucial to close the gap between theory and practice for modern machine learning algorithms, particularly to improve the reliability and interpretability of algorithms when deploying them for decisions where human lives are at stake. Using online learning as a framework to understand and quantify the necessity of common assumptions made in machine learning models, I aim to reconcile theoretical guarantees with results seen by actual practitioners. -->
 
 <!-- I have also spent time working on queueing theory results with [David Stanford](https://www.uwo.ca/stats/people/bios/david-stanford.html), and I'm actively involved in these projects as they develop. -->
 

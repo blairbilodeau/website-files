@@ -11,10 +11,10 @@ date = 2020-05-23
 authors = ["Blair Bilodeau"]
 
 # Abstract.
-abstract = "Python script to facilitate easy automatic pulling of new papers from Arxiv, Biorxiv, and Medrxiv with custom search features."
+abstract = ""
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features."
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -64,4 +64,4 @@ url_code = "https://github.com/blairbilodeau/arxiv-biorxiv-search"
   # focal_point = "Smart"
 +++
 
-Python script to facilitate easy automatic pulling of new papers from Arxiv, Biorxiv, and Medrxiv with custom search features.
+Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features.

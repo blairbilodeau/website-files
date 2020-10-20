@@ -3,10 +3,10 @@
 # This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Preprints and Articles"
+title = "Featured Papers"
 subtitle = "<small><sup>*</sup>denotes equal contribution</small>"
 
 [content]
@@ -14,7 +14,7 @@ subtitle = "<small><sup>*</sup>denotes equal contribution</small>"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 2
   
   # Choose how many pages you would like to offset by
   offset = 0

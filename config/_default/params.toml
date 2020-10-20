@@ -50,8 +50,8 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "blair.bilodeau@mail.utoronto.ca"
-phone = "+1 (519) 871-4811"
+email = ""
+phone = ""
 address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -126,6 +126,12 @@ sharing = false
   # Citation style ("apa" or "mla")
   citation_style = "apa"
 
+  # Link the title of the publication to the publication
+  links_title = true
+
+  # Link the authors of the publication to the list of publication made by this author
+  links_authors = false  
+
 # Configuration of project pages.
 [projects]
   # Views for associated content.
@@ -136,7 +142,7 @@ sharing = false
   post_view = 2
   publication_view = 2
   talk_view = 2
-  working-paper_view = 4
+  working-paper_view = 2
 
 # Search.
 [search]

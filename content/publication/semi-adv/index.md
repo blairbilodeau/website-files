@@ -6,7 +6,7 @@ title = "Relaxing the i.i.d. assumption: Adaptive minimax optimal sequential pre
 date = 2020-07-13
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Blair Bilodeau*", "Jeffrey Negrea*", "Daniel M. Roy"]
+authors = ["Blair Bilodeau<sup>*</sup>", "Jeffrey Negrea<sup>*</sup>", "Daniel M. Roy"]
 
 # Publication type.
 # Legend:
@@ -34,7 +34,7 @@ doi = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Featured"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

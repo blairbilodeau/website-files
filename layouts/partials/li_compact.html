@@ -15,7 +15,6 @@
   {{ $show_authors_only = false }}
   {{ $show_buttons = true }}
 {{ end }}
-
 {{/* Get summary. */}}
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
@@ -32,14 +31,13 @@
     <h3 class="article-title mb-0 mt-0" itemprop="name">
       <a href="{{ $item.RelPermalink }}" itemprop="url">{{ $item.Title }}</a>
     </h3>
-
     <div class="stream-meta article-metadata">
 
       {{ if eq $item.Type "talk" }}
       <div>
         <span itemprop="startDate">
           {{ $date := $item.Date }}
-          {{ (time $date).Format $.Site.Params.date_format }}
+          {{(time $date).Format $.Site.Params.date_format}}
           {{ if not $item.Params.all_day }}
             {{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
             {{ with $item.Params.date_end }}
@@ -49,25 +47,24 @@
         </span>
         {{ with $item.Params.location }}
         <span class="middot-divider"></span>
-        <span itemprop="location">{{ . }}</span>
+        <span itemprop="location">{{.}}</span>
         {{ end }}
       </div>
       {{ end }}
-
       {{ if and $show_authors_only $item.Params.authors }}
       <div itemprop="author">
-        {{ partial "page_metadata_authors" $item }}
+        {{- partial "page_metadata_authors" $item -}}
       </div>
       {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "content" $item "is_list" 1) }}
+        {{- partial "page_metadata" (dict "content" $item "is_list" 1) -}}
       {{ end }}
-    </div>
 
     {{ if $show_buttons }}
     <div class="btn-links">
       {{ partial "page_links" (dict "content" $item "is_list" 1) }}
     </div>
     {{ end }}
+    </div>
 
   </div>
   <div class="ml-3">

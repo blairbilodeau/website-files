@@ -21,7 +21,7 @@ email_form = 0
 copyright = "&copy; Blair Bilodeau 2020"
 
 # Enable analytics by entering your Google Analytics tracking ID
-# googleAnalytics = ""
+# googleAnalytics = "UA-180900159-1"
 
 # Enable comments by entering your Disqus shortname
 # disqusShortname = ""
