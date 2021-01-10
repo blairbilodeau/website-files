@@ -1,8 +1,8 @@
 +++
-type= "project"
+type= "teaching"
 
 # Project title.
-title = "Undergraduate Probability Theory Course Notes"
+title = "STA347: Probability Theory"
 
 # Date this page was created.
 date = 2020-07-01
@@ -11,7 +11,7 @@ date = 2020-07-01
 authors = ["Blair Bilodeau"]
 
 # Abstract.
-abstract = "Course notes I made for teaching STA347: Probability Theory at the University of Toronto in Summer 2020."
+abstract = "Course notes I made for teaching STA347: Probability Theory at the University of Toronto."
 
 # Project summary to display on homepage.
 summary = ""
@@ -44,14 +44,14 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_pdf = "project/sta347/probability.pdf"
+url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name = "Course Notes", url = "teaching/sta347/probability.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -64,4 +64,4 @@ url_code = ""
   # focal_point = "Smart"
 +++
 
-Course notes I made for teaching STA347: Probability Theory at the University of Toronto in Summer 2020.
+Course notes I made for teaching STA347: Probability Theory at the University of Toronto.

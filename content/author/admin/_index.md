@@ -86,13 +86,13 @@ user_groups = []
 
 I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca), supported by the [Vector Institute](https://vectorinstitute.ai) and an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp). I received my BSc in financial mathematics from [Western University](https://www.uwo.ca/stats/) in 2018.
 
-My research area is broadly statistical machine learning, with a focus on theoretical performance guarantees for various sequential prediction settings. Some problems I'm currently thinking about are:
+My research area is broadly statistical machine learning, with a focus on theoretical performance guarantees for sequential decision making. Some problems I'm currently thinking about are:
 
 **Adaptivity**: How can we characterize the difficulty of learning data beyond classical stationary dependence structures and design algorithms that adapt to these difficulty notions? 
 
 **Statistical Complexities**: Existing notions of predictor and algorithm complexity may be vacuous or suboptimal for modern machine learning systems. What are the right notions of complexity that lead to matching theoretical guarantees on empirical performance?
 
-**Domain Adaptation**: Empirical performance has far outpaced the theory for the broad problem of learning data with few or no labels. What are the correct theoretical formalizations of these tasks that will lead to sample complexity guarantees similar to those seen in practice?
+**Transfer Learning**: Empirical performance has far outpaced the theory of learning data with few or no labels and using this data to make predictions on out-of-distribution data. What are the correct theoretical formalizations of these tasks that result in sample complexity guarantees representative of empirical performance?
 
 <!-- I believe it is crucial to close the gap between theory and practice for modern machine learning algorithms, particularly to improve the reliability and interpretability of algorithms when deploying them for decisions where human lives are at stake. Using online learning as a framework to understand and quantify the necessity of common assumptions made in machine learning models, I aim to reconcile theoretical guarantees with results seen by actual practitioners. -->
 

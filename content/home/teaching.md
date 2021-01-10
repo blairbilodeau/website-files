@@ -2,14 +2,14 @@
 # Portfolio widget.
 widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 35  # Order that this section will appear.
 
-title = "Projects"
+title = "Teaching"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "teaching"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -19,6 +19,7 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+  
 
 
 [design]

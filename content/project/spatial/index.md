@@ -2,7 +2,7 @@
 type= "project"
 
 # Project title.
-title = "Spatial Analysis Examples"
+title = "STA2201 Homework 3: Spatial Analysis Examples"
 
 # Date this page was created.
 date = 2019-04-10
@@ -44,14 +44,14 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_pdf = "project/spatial/spatial.pdf"
+url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name = "Report", url = "project/spatial/report.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

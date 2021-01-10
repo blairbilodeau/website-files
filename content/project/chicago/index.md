@@ -2,7 +2,7 @@
 type= "project"
 
 # Project title.
-title = "Spatial Analysis of Crime in Chicago"
+title = "STA2101 Final Project: Spatial Analysis of Crime in Chicago"
 
 # Date this page was created.
 date = 2018-12-19
@@ -44,14 +44,15 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_pdf = "project/chicago/report.pdf"
+url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/blairbilodeau/crimes_in_chicago"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name = "Report", url = "project/chicago/report.pdf"},
+		 {name = "Code", url = "https://github.com/blairbilodeau/crimes_in_chicago"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

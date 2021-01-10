@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Average waiting times in the two-class M/G/1 delayed accumulating priority queue"
+title = "Average Waiting Times in the Two-Class M/G/1 Delayed Accumulating Priority Queue"
 
 # Date this page was created.
 date = 2020-01-01
@@ -57,14 +57,17 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_pdf = "https://arxiv.org/abs/2001.06054"
-url_slides = "publication/avg-wait/slides.pdf"
+url_pdf = ""
+url_slides = ""
 url_video = ""
-url_code = "https://github.com/blairbilodeau/delayed-apq-avg-wait"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name = "Cite", url = "publication/avg-wait/cite.txt"},
+		 {name = "arXiv", url = "https://arxiv.org/abs/2001.06054"},
+		 {name = "Slides", url = "publication/avg-wait/slides.pdf"},
+		 {name = "Code", url = "https://github.com/blairbilodeau/delayed-apq-avg-wait"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

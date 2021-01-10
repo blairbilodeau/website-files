@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Relaxing the i.i.d. assumption: Adaptive minimax optimal sequential prediction with expert advice"
+title = "Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization"
 
 # Date this page was created.
 date = 2020-07-13
@@ -24,7 +24,7 @@ publication = "arXiv Preprint"
 publication_short = "arXiv Preprint"
 
 # Abstract.
-abstract = "We consider sequential prediction with expert advice when the data are generated stochastically, but the distributions generating the data may vary arbitrarily among some constraint set. We quantify relaxations of the classical i.i.d. assumption in terms of possible constraint sets, with i.i.d. at one extreme, and an adversarial mechanism at the other. The Hedge algorithm, long known to be minimax optimal in the adversarial regime, has recently been shown to also be minimax optimal in the i.i.d. setting. We show that Hedge is suboptimal between these extremes, and present a new algorithm that is adaptively minimax optimal with respect to our relaxations of the i.i.d. assumption, without knowledge of which setting prevails."
+abstract = "We consider sequential prediction with expert advice when data are generated from distributions varying arbitrarily within an unknown constraint set. We quantify relaxations of the classical i.i.d. assumption in terms of these constraint sets, with i.i.d. sequences at one extreme and adversarial mechanisms at the other. The Hedge algorithm, long known to be minimax optimal in the adversarial regime, was recently shown to be minimax optimal for i.i.d. data. We show that Hedge with deterministic learning rates is suboptimal between these extremes, and present a new algorithm that adaptively achieves the minimax optimal rate of regret with respect to our relaxations of the i.i.d. assumption, and does so without knowledge of the underlying constraint set. We analyze our algorithm using the follow-the-regularized-leader framework, and prove it corresponds to Hedge with an adaptive learning rate that implicitly scales as the square root of the entropy of the current predictive distribution, rather than the entropy of the initial predictive distribution."
 
 # Project summary to display on homepage.
 summary = ""
@@ -58,14 +58,15 @@ slides = ""
 # Links (optional).
 url_preprint = ""
 url_poster = ""
-url_pdf = "https://arxiv.org/abs/2007.06552"
+url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name = "Cite", url = "publication/semi-adv/cite.txt"},
+		 {name = "arXiv", url = "https://arxiv.org/abs/2007.06552"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Simulated co-location of patients admitted to an inpatient internal medicine teaching unit: Potential impacts on efficiency and physician-nurse collaboration"
+title = "Simulated Co-location of Patients Admitted to an Inpatient Internal Medicine Teaching Unit: Potential Impacts on Efficiency and Physician-Nurse Collaboration"
 
 # Date this page was created.
 date = 2019-05-01
@@ -30,7 +30,7 @@ abstract = "Effective communication between nurses and physician teams on the in
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1080/03155986.2019.1624475"
+doi = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -57,14 +57,18 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_pdf = "publication/colocation/preprint.pdf"
-url_slides = "publication/colocation/slides.pdf"
+url_pdf = ""
+url_slides = ""
 url_video = ""
-url_code = "https://github.com/blairbilodeau/internal-medicine-simulation"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name = "Cite", url = "publication/colocation/cite.txt"},
+		 {name = "PDF", url = "publication/colocation/preprint.pdf"},
+		 {name = "Slides", url = "publication/colocation/slides.pdf"},
+		 {name = "Code", url = "https://github.com/blairbilodeau/internal-medicine-simulation"},
+		 {name = "Camera Ready", url = "https://www.tandfonline.com/doi/abs/10.1080/03155986.2019.1624475"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

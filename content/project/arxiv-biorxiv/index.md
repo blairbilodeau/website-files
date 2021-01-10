@@ -45,13 +45,14 @@ slides = ""
 # Links (optional).
 url_preprint = ""
 url_pdf = ""
-url_slides = "project/arxiv-biorxiv/cssc-slides.pdf"
+url_slides = ""
 url_video = ""
-url_code = "https://github.com/blairbilodeau/arxiv-biorxiv-search"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name = "Slides", url = "project/arxiv-biorxiv/cssc-slides.pdf"},
+		 {name = "Code", url = "https://github.com/blairbilodeau/arxiv-biorxiv-search"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Tight bounds on minimax regret under logarithmic loss via self-concordance"
+title = "Tight Bounds on Minimax Regret Under Logarithmic Loss via Self-Concordance"
 
 # Date this page was created.
 date = 2020-02-15
@@ -57,15 +57,19 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
-url_poster = "publication/minimax-logloss/jsm-poster.pdf"
-url_pdf = "https://arxiv.org/abs/2007.01160"
-url_slides = "publication/minimax-logloss/icml-slides.pdf"
+url_poster = ""
+url_pdf = ""
+url_slides = ""
 url_video = ""
 url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{name = "Cite", url = "publication/minimax-logloss/cite.txt"},
+		 {name = "arXiv", url = "https://arxiv.org/abs/2007.01160"},
+		 {name = "Poster", url = "publication/minimax-logloss/jsm-poster.pdf"},
+		 {name = "Slides", url = "publication/minimax-logloss/icml-slides.pdf"},
+		 {name = "Camera Ready", url = "http://proceedings.mlr.press/v119/bilodeau20a.html"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
