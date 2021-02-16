@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference."
+title = "Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference"
 
 # Date this page was created.
 date = 2021-02-15
