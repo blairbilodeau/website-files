@@ -60,10 +60,15 @@ user_groups = []
   icon_pack = "fab"
   link = "https://github.com/blairbilodeau"
 
+# [[social]]
+#  icon = "google-scholar"
+#  icon_pack = "ai"
+#  link = "https://scholar.google.com/citations?hl=en&user=s1HQgDoAAAAJ"
+
  [[social]]
-  icon = "google-scholar"
+  icon = "semantic-scholar-square"
   icon_pack = "ai"
-  link = "https://scholar.google.com/citations?hl=en&user=s1HQgDoAAAAJ"
+  link = "https://www.semanticscholar.org/author/Blair-Bilodeau/150932006"
 
 # [[social]]
 #  icon = "orcid"
