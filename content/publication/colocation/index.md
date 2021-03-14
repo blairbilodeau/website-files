@@ -68,7 +68,7 @@ links = [{name = "Cite", url = "publication/colocation/cite.txt"},
 		 {name = "PDF", url = "publication/colocation/preprint.pdf"},
 		 {name = "Slides", url = "publication/colocation/slides.pdf"},
 		 {name = "Code", url = "https://github.com/blairbilodeau/internal-medicine-simulation"},
-		 {name = "Camera Ready", url = "https://www.tandfonline.com/doi/abs/10.1080/03155986.2019.1624475"}]
+		 {name = "Published Version", url = "https://www.tandfonline.com/doi/abs/10.1080/03155986.2019.1624475"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

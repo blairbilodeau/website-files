@@ -69,7 +69,7 @@ links = [{name = "Cite", url = "publication/minimax-logloss/cite.txt"},
 		 {name = "arXiv", url = "https://arxiv.org/abs/2007.01160"},
 		 {name = "Poster", url = "publication/minimax-logloss/jsm-poster.pdf"},
 		 {name = "Slides", url = "publication/minimax-logloss/icml-slides.pdf"},
-		 {name = "Camera Ready", url = "http://proceedings.mlr.press/v119/bilodeau20a.html"}]
+		 {name = "Published Version", url = "http://proceedings.mlr.press/v119/bilodeau20a.html"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
