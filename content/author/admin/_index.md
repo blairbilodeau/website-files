@@ -48,7 +48,8 @@ user_groups = []
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:blair@utstat.toronto.edu"
+#  link = "mailto:blair@utstat.toronto.edu"
+  link = "mailto:blair.bilodeau@mail.utoronto.ca"
 
 [[social]]
   icon = "twitter"
