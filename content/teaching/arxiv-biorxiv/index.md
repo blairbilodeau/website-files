@@ -1,5 +1,5 @@
 +++
-type= "project"
+type= "teaching"
 
 # Project title.
 title = "Scripts to Scrape Data from arXiv and biorXiv"
@@ -11,10 +11,10 @@ date = 2020-05-23
 authors = ["Blair Bilodeau"]
 
 # Abstract.
-abstract = ""
+abstract = "Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features."
 
 # Project summary to display on homepage.
-summary = "Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features."
+summary = ""
 
 # Digital Object Identifier (DOI)
 doi = ""

@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate in Statistics"
+role = "PhD Candidate in Statistical Sciences"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -90,15 +90,19 @@ user_groups = []
 
 +++
 
-I'm a PhD candidate in statistics advised by [Daniel Roy](http://danroy.org) at the [University of Toronto](https://www.statistics.utoronto.ca), supported by the [Vector Institute](https://vectorinstitute.ai) and an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp). I received my BSc in financial mathematics from [Western University](https://www.uwo.ca/stats/) in 2018.
+I'm a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca) advised by [Daniel Roy](http://danroy.org), and am supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
 
-My research area is broadly statistical machine learning, with a focus on theoretical performance guarantees for sequential decision making. Some problems I'm currently thinking about are:
+My research area is broadly the theoretical foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms. 
 
-**Adaptivity**: How can we characterize the difficulty of learning data beyond classical stationary dependence structures and design algorithms that adapt to these difficulty notions? 
+Some problems I'm actively thinking about are...
 
-**Statistical Complexities**: Existing notions of predictor and algorithm complexity may be vacuous or suboptimal for modern machine learning systems. What are the right notions of complexity that lead to matching theoretical guarantees on empirical performance?
+**Statistical Complexities**: For nonparametric statistical procedures, existing notions of complexity lead to vacuous or suboptimal guarantees on predictive performance. How can we formalize notions of complexity to obtain tight theoretical guarantees under realistic assumptions?
 
-**Transfer Learning**: Empirical performance has far outpaced the theory of learning data with few or no labels and using this data to make predictions on out-of-distribution data. What are the correct theoretical formalizations of these tasks that result in sample complexity guarantees representative of empirical performance?
+**Adaptivity**: How can we characterize the difficulty of learning from data beyond classical stationary dependence structures, and then design algorithms that adapt to these difficulty notions without requiring knowledge of the true dependence structure in advance? 
+
+**Approximate Bayesian Inference**: Recent computational advancements have led to a surge in popularity of sampling-free methods for Bayesian inference, but our theoretical understanding of these has lagged behind. How does performance of these methods depend on the dimensionality, smoothness, likelihood suitability, and priors?
+
+<!-- **Transfer Learning**: Empirical performance has far outpaced the theory of learning data with few or no labels and using this data to make predictions on out-of-distribution data. What are the correct theoretical formalizations of these tasks that result in sample complexity guarantees representative of empirical performance? -->
 
 <!-- I believe it is crucial to close the gap between theory and practice for modern machine learning algorithms, particularly to improve the reliability and interpretability of algorithms when deploying them for decisions where human lives are at stake. Using online learning as a framework to understand and quantify the necessity of common assumptions made in machine learning models, I aim to reconcile theoretical guarantees with results seen by actual practitioners. -->
 
