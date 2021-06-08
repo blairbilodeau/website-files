@@ -67,6 +67,7 @@ url_code = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{name = "Cite", url = "publication/aghq/cite.txt"},
 		 {name = "arXiv", url = "https://arxiv.org/abs/2102.06801"},
+     {name = "Poster", url = "publication/aghq/poster.pdf"},
      {name = "Slides", url = "publication/aghq/slides.pdf"},
      {name = "Talk", url = "publication/aghq/talk.mp4"},
      {name = "Code", url = "https://github.com/awstringer1/aghq-paper-code"}]
