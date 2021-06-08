@@ -69,6 +69,7 @@ links = [{name = "Cite", url = "publication/minimax-logloss/cite.txt"},
 		 {name = "arXiv", url = "https://arxiv.org/abs/2007.01160"},
 		 {name = "Poster", url = "publication/minimax-logloss/jsm-poster.pdf"},
 		 {name = "Slides", url = "publication/minimax-logloss/icml-slides.pdf"},
+		 {name = "Talk", url = "https://icml.cc/virtual/2020/poster/6768"},
 		 {name = "Published Version", url = "http://proceedings.mlr.press/v119/bilodeau20a.html"}]
 
 # Featured image
