@@ -93,7 +93,7 @@ user_groups = []
 I'm a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca) advised by [Daniel Roy](http://danroy.org), and am supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
 
 My research area is broadly the theoretical foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms. 
-I'm actively thinking about...
+I'm currently thinking about...
 
 **Statistical Complexities**: For nonparametric statistical procedures, existing notions of complexity lead to vacuous or suboptimal guarantees on predictive performance. How can we formalize notions of complexity to obtain tight theoretical guarantees under realistic assumptions?
 
