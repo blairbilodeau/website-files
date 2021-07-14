@@ -5,7 +5,7 @@ type= "teaching"
 title = "STA347: Probability Theory"
 
 # Date this page was created.
-date = 2020-07-01
+date = 2021-07-13
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Blair Bilodeau"]

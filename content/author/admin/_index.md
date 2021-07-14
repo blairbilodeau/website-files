@@ -93,14 +93,13 @@ user_groups = []
 I'm a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca) advised by [Daniel Roy](http://danroy.org), and am supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
 
 My research area is broadly the theoretical foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms. 
-
-Some problems I'm actively thinking about are...
+I'm actively thinking about...
 
 **Statistical Complexities**: For nonparametric statistical procedures, existing notions of complexity lead to vacuous or suboptimal guarantees on predictive performance. How can we formalize notions of complexity to obtain tight theoretical guarantees under realistic assumptions?
 
 **Adaptivity**: How can we characterize the difficulty of learning from data beyond classical stationary dependence structures, and then design algorithms that adapt to these difficulty notions without requiring knowledge of the true dependence structure in advance? 
 
-**Approximate Bayesian Inference**: Recent computational advancements have led to a surge in popularity of sampling-free methods for Bayesian inference, but our theoretical understanding of these has lagged behind. How does performance of these methods depend on the dimensionality, smoothness, likelihood suitability, and priors?
+**Aggregation**: Aggregation (of models, algorithms, settings, etc) is fundamental in both statistics and online learning, yet it is used and analyzed very differently in these two communities. I am particularly interested in various statistical applications viewed through the lens of modern analyses for regularized optimization.
 
 <!-- **Transfer Learning**: Empirical performance has far outpaced the theory of learning data with few or no labels and using this data to make predictions on out-of-distribution data. What are the correct theoretical formalizations of these tasks that result in sample complexity guarantees representative of empirical performance? -->
 

@@ -2,16 +2,16 @@
 type= "teaching"
 
 # Project title.
-title = "Scripts to Scrape Data from arXiv and biorXiv"
+title = "Introduction to Theoretical Statistics Research"
 
 # Date this page was created.
-date = 2020-05-23
+date = 2021-07-10
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Blair Bilodeau"]
 
 # Abstract.
-abstract = "Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features."
+abstract = "Undergraduate statistics courses focus heavily on how statistics is applied in practice along with theoretical guarantees on how classical methods perform, but often leave undergrads unclear what modern theoretical research looks like, or how to begin doing it themselves. In this seminar, I’ll introduce at a high-level my views on what the key common aspects are of most theoretical statistics results. Topics of discussion include: questions theoreticians aim to answer, impacts of theoretical research on statistical practice, and limitations of current common trends in theoretical statistics. I’ll illustrate these topics using brief summaries of my own research contributions in classical statistics, machine learning, and modern computational methods."
 
 # Project summary to display on homepage.
 summary = ""
@@ -51,8 +51,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Slides", url = "teaching/arxiv-biorxiv/cssc-slides.pdf"},
-		 {name = "Code", url = "https://github.com/blairbilodeau/arxiv-biorxiv-search"}]
+links = [{name = "Slides", url = "teaching/intro-theory/issc-2021.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
