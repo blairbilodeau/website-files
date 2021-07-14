@@ -1,6 +1,13 @@
 TO PUBLISH SITE: 
 cd /Users/blairbilodeau/Documents/Programming/website-files (get in website-files)
 
+
+*** With Github desktop ***
+
+hugo
+push blairbilodeau.github.io (which corresponds to the public folder)
+push website-files
+
 hugo
 cd public
 git add .

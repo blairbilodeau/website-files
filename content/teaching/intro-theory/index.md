@@ -1,5 +1,5 @@
 +++
-type= "teaching"
+type= "nothing"
 
 # Project title.
 title = "Introduction to Theoretical Statistics Research"
