@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Average Waiting Times in the Two-Class M/G/1 Delayed Accumulating Priority Queue"
+title = "High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs"
 
 # Date this page was created.
 date = 2020-01-01
@@ -24,7 +24,7 @@ publication = "arXiv Preprint"
 publication_short = "arXiv Preprint"
 
 # Abstract.
-abstract = "Previously, Mojalal et al. (2019) gave an expression for the waiting time distribution of low priority customers in the Delayed Accumulating Priority Queue, but with no quantification of the effect on others in system. We provide an analytical expression for the expected waiting time of both high and low priority customers by exploiting a conservation law for work conserving queues. Our expression can be efficiently implemented numerically, requiring only the truncation of sums which converge exponentially quickly. This enables us to use common key performance indicators to demonstrate how the accumulation rate and delay level should be chosen by health care practitioners."
+abstract = "We provide the first analytical expressions for the expected waiting time of high- priority customers in the delayed APQ by exploiting a classical conservation law for work-conserving queues. Additionally, we describe an efficient algorithm for exactly computing the expected waiting times of both low-priority and high-priority customers, requiring only the truncation of sums that converge exponentially quickly. These insights are used to demonstrate how the accumulation rate and delay level should be chosen by health care practitioners to optimize common key performance indicators (KPIs). In particular, we demonstrate that for certain nontrivial KPIs, an accumulating priority queue with a delay of zero is always preferable. Finally, we present a detailed investigation of the quality of an exponential approximation to the high-priority waiting time distribution, which we use to optimize the choice of queueing parameters with respect to both classes' waiting time distributions."
 
 # Project summary to display on homepage.
 summary = ""

@@ -64,4 +64,4 @@ links = [{name = "Slides", url = "teaching/intro-theory/issc-2021.pdf"}]
   # focal_point = "Smart"
 +++
 
-Python script to facilitate easy automatic pulling of new papers from arXiv, biorXiv, and medrXiv with custom search features.
+Undergraduate statistics courses focus heavily on how statistics is applied in practice along with theoretical guarantees on how classical methods perform, but often leave undergrads unclear what modern theoretical research looks like, or how to begin doing it themselves. In this seminar, I’ll introduce at a high-level my views on what the key common aspects are of most theoretical statistics results. Topics of discussion include: questions theoreticians aim to answer, impacts of theoretical research on statistical practice, and limitations of current common trends in theoretical statistics. I’ll illustrate these topics using brief summaries of my own research contributions in classical statistics, machine learning, and modern computational methods.
