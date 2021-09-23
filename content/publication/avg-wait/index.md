@@ -1,4 +1,7 @@
 +++
+
+featured = true
+
 # Project title.
 title = "High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs"
 

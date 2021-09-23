@@ -109,4 +109,5 @@ I'm currently thinking about...
 
 <!-- I am funded by an [NSERC PGS-D](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp) award, and previously held an [NSERC CGS-M](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp) award. -->
 
-To view my curriculum vitae, [click here](cv/cv.pdf).
+<!-- To view my curriculum vitae, [click here](cv/cv.pdf).
+-->

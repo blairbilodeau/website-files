@@ -6,8 +6,8 @@ widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Preprints and Articles"
-subtitle = "<small><sup>*</sup>denotes equal contribution</small>"
+title = "Featured Papers"
+subtitle = "<small><sup>*</sup>denotes equal contribution</small> <br> <small><a href='/publication/'>Click to view full paper list.</a></small>"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -27,7 +27,7 @@ subtitle = "<small><sup>*</sup>denotes equal contribution</small>"
     tag = ""
     category = ""
     publication_type = ""
-    exclude_featured = false
+    exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.
@@ -63,4 +63,5 @@ subtitle = "<small><sup>*</sup>denotes equal contribution</small>"
  
  # CSS class.
  css_class = ""
+
 +++

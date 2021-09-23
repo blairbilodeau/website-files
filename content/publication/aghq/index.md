@@ -1,4 +1,5 @@
 +++
+
 # Project title.
 title = "Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference"
 

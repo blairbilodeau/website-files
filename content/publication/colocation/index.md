@@ -1,4 +1,8 @@
 +++
+
+featured = true
+
+
 # Project title.
 title = "Simulated Co-location of Patients Admitted to an Inpatient Internal Medicine Teaching Unit: Potential Impacts on Efficiency and Physician-Nurse Collaboration"
 
