@@ -20,11 +20,11 @@ authors = ["Blair Bilodeau", "Dylan J. Foster", "Daniel M. Roy"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In preparation"
-publication_short = "In preparation"
+publication = "arXiv Preprint"
+publication_short = "arXiv Preprint"
 
 # Abstract.
-abstract = "We consider the task of estimating a conditional density using i.i.d. samples from a joint distribution. For joint density estimation, minimax rates are known for general classes in terms of their (metric) entropy, a fundamental and well-studied notion of statistical capacity. However, applying these results to estimating conditional densi- ties can yield suboptimal rates due to their dependence on uniform entropy, which is infinite when the covariate space is unbounded and suffers from the curse of dimensionality. We resolve this problem for well-specified models, obtaining matching upper and lower bounds on the minimax Kullback–Leibler risk in terms of the empirical Hellinger entropy of the conditional density class. In contrast to uniform en- tropy, empirical entropy provides the correct dependence on the size of the covariate space. We only require that the conditional densities are bounded above, but not that they are bounded below or otherwise satisfy any tail conditions."
+abstract = "We consider the task of estimating a conditional density using i.i.d. samples from a joint distribution, which is a fundamental problem with applications in both classification and uncertainty quantification for regression. For joint density estimation, minimax rates have been characterized for general density classes in terms of uniform (metric) entropy, a well-studied notion of statistical capacity. When applying these results to conditional density estimation, the use of uniform entropy -- which is infinite when the covariate space is unbounded and suffers from the curse of dimensionality -- can lead to suboptimal rates. Consequently, minimax rates for conditional density estimation cannot be characterized using these classical results. We resolve this problem for well-specified models, obtaining matching (within logarithmic factors) upper and lower bounds on the minimax Kullback--Leibler risk in terms of the empirical Hellinger entropy for the conditional density class. The use of empirical entropy allows us to appeal to concentration arguments based on local Rademacher complexity, which -- in contrast to uniform entropy -- leads to matching rates for large, potentially nonparametric classes and captures the correct dependence on the complexity of the covariate space. Our results require only that the conditional densities are bounded above, and do not require that they are bounded below or otherwise satisfy any tail conditions."
 
 # Project summary to display on homepage.
 summary = ""
@@ -65,7 +65,9 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Slides", url = "publication/density-estimation/slides.pdf"},
+links = [{name = "Cite", url = "publication/density-estimation/cite.txt"},
+        {name = "arXiv", url = "https://arxiv.org/abs/2109.10461"},
+        {name = "Slides", url = "publication/density-estimation/slides.pdf"},
 					{name = "Talk", url = "http://www.fields.utoronto.ca/talks/Minimax-Rates-Conditional-Density-Estimation-Empirical-Entropy"}]
 
 # Featured image
