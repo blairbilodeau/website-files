@@ -1,6 +1,6 @@
 +++
 title = "Papers"
-subtitle = "<small><sup>*</sup>denotes equal contribution</small>"
+subtitle = "<small><sup>*</sup>Shared first authorship</small>"
 
 # View.
 #   1 = List
