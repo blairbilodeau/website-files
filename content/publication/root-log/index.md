@@ -68,7 +68,8 @@ url_code = ""
 links = [{name = "Cite", url = "publication/root-log/cite.txt"},
         {name = "arXiv", url = "https://arxiv.org/abs/2110.14804"},
         {name = "Slides", url = "publication/root-log/slides.pdf"},
-        {name = "Code", url = "https://github.com/blairbilodeau/neurips-2021"}]
+        {name = "Code", url = "https://github.com/blairbilodeau/neurips-2021"},
+        {name = "Published Version", url = "https://openreview.net/forum?id=8SEJ8AT_6Dl"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
