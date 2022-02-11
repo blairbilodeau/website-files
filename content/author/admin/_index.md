@@ -9,11 +9,12 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate in Statistical Sciences"
+role = "PhD Candidate in Statistical Sciences\n University of Toronto"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Toronto", url = "https://www.statistics.utoronto.ca" }, {name = "Vector Institute", url = "https://vectorinstitute.ai"} ]
+organizations = []
+# [ { name = "University of Toronto", url = "https://www.statistics.utoronto.ca" }, {name = "Vector Institute", url = "https://vectorinstitute.ai"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -90,16 +91,22 @@ user_groups = []
 
 +++
 
+I'll be a Research Intern at Google Brain with [Been Kim](https://beenkim.github.io) for Summer 2022.
+
 I'm a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). I am supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
 
 My research area is broadly the theoretical foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms. 
-I'm currently thinking about...
+I'm currently thinking about adaptivity in a variety of settings, using tools from probability, nonparametric statistics, classical minimax theory, and online learning to  answer the question:
 
-**Statistical Complexities**: For nonparametric statistical procedures, existing notions of complexity lead to vacuous or suboptimal guarantees on predictive performance. How can we formalize notions of complexity to obtain tight theoretical guarantees under realistic assumptions?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *How and when can we make decisions as well as if we knew the* 
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *structure of the World in advance, without requiring this knowledge?* 
+
+<!-- **Statistical Complexities**: For nonparametric statistical procedures, existing notions of complexity lead to vacuous or suboptimal guarantees on predictive performance. How can we formalize notions of complexity to obtain tight theoretical guarantees under realistic assumptions?
 
 **Adaptivity**: How can we characterize the difficulty of learning from data beyond classical stationary dependence structures, and then design algorithms that adapt to these difficulty notions without requiring knowledge of the true dependence structure in advance? 
 
-**Aggregation**: Aggregation (of models, algorithms, settings, etc) is fundamental in both statistics and online learning, yet it is used and analyzed very differently in these two communities. I am particularly interested in various statistical applications viewed through the lens of modern analyses for regularized optimization.
+**Aggregation**: Aggregation (of models, algorithms, settings, etc) is fundamental in both statistics and online learning, yet it is used and analyzed very differently in these two communities. I am particularly interested in various statistical applications viewed through the lens of modern analyses for regularized optimization. -->
 
 <!-- **Transfer Learning**: Empirical performance has far outpaced the theory of learning data with few or no labels and using this data to make predictions on out-of-distribution data. What are the correct theoretical formalizations of these tasks that result in sample complexity guarantees representative of empirical performance? -->
 

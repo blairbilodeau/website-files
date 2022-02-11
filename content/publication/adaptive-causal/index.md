@@ -1,15 +1,13 @@
 +++
 
-featured = true
-
 # Project title.
-title = "High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs"
+title = "Adaptively Exploiting d-Separators with Causal Bandits"
 
 # Date this page was created.
-date = 2022-01-01
+date = 2022-02-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Blair Bilodeau", "David A. Stanford"]
+authors = ["Blair Bilodeau", "Linbo Wang", "Daniel M. Roy"]
 
 # Publication type.
 # Legend:
@@ -20,14 +18,14 @@ authors = ["Blair Bilodeau", "David A. Stanford"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "INFOR: Information Systems and Operational Research"
-publication_short = "INFOR: Information Systems and Operational Research"
+publication = "arXiv Preprint"
+publication_short = "arXiv Preprint"
 
 # Abstract.
-abstract = "We provide the first analytical expressions for the expected waiting time of high-priority customers in the delayed APQ by exploiting a classical conservation law for work-conserving queues. Additionally, we describe an algorithm to compute the expected waiting times of both low-priority and high-priority customers, which requires only the truncation of sums that converge quickly in our experiments. These insights are used to demonstrate how the accumulation rate and delay level should be chosen by health care practitioners to optimize common key performance indicators (KPIs). In particular, we demonstrate that for certain nontrivial KPIs, an accumulating priority queue with a delay of zero is always preferable. Finally, we present a detailed investigation of the quality of an exponential approximation to the high-priority waiting time distribution, which we use to optimize the choice of queueing parameters with respect to both classes' waiting time distributions."
+abstract = "Multi-armed bandit problems provide a framework to identify the optimal intervention over a sequence of repeated experiments. Without additional assumptions, minimax optimal performance (measured by cumulative regret) is well-understood. With access to additional observed variables that d-separate the intervention from the outcome (i.e., they are a d-separator), recent causal bandit algorithms provably incur less regret. However, in practice it is desirable to be agnostic to whether observed variables are a d-separator. Ideally, an algorithm should be adaptive; that is, perform nearly as well as an algorithm with oracle knowledge of the presence or absence of a d-separator. In this work, we formalize and study this notion of adaptivity, and provide a novel algorithm that simultaneously achieves (a) optimal regret when a d-separator is observed, improving on classical minimax algorithms, and (b) significantly smaller regret than recent causal bandit algorithms when the observed variables are not a d-separator. Crucially, our algorithm does not require any oracle knowledge of whether a d-separator is observed. We also generalize this adaptivity to other conditions, such as the front-door criterion."
 
 # Project summary to display on homepage.
 summary = ""
@@ -60,6 +58,7 @@ slides = ""
 
 # Links (optional).
 url_preprint = ""
+url_poster = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
@@ -67,10 +66,9 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Cite", url = "publication/avg-wait/cite.txt"},
-		 {name = "arXiv", url = "https://arxiv.org/abs/2001.06054"},
-		 {name = "Slides", url = "publication/avg-wait/slides.pdf"},
-		 {name = "Code", url = "https://github.com/blairbilodeau/delayed-apq-avg-wait"}]
+links = [{name = "Cite", url = "publication/adaptive-causal/cite.txt"},
+        {name = "arXiv", url = "https://arxiv.org/abs/2202.05100"},
+        {name = "Code", url = "https://github.com/blairbilodeau/adaptive-causal-bandits"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
