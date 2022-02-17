@@ -1,12 +1,15 @@
 +++
+
+featured = true
+
 # Project title.
-title = "Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization"
+title = "Fitting Generalized Linear Mixed Models using Adaptive Quadrature"
 
 # Date this page was created.
-date = 2020-07-13
+date = 2022-02-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Blair Bilodeau<sup>*</sup>", "Jeffrey Negrea<sup>*</sup>", "Daniel M. Roy"]
+authors = ["Alex Stringer", "Blair Bilodeau"]
 
 # Publication type.
 # Legend:
@@ -24,7 +27,7 @@ publication = "arXiv Preprint"
 publication_short = "arXiv Preprint"
 
 # Abstract.
-abstract = "We consider sequential prediction with expert advice when data are generated from distributions varying arbitrarily within an unknown constraint set. We quantify relaxations of the classical i.i.d. assumption in terms of these constraint sets, with i.i.d. sequences at one extreme and adversarial mechanisms at the other. The Hedge algorithm, long known to be minimax optimal in the adversarial regime, was recently shown to be minimax optimal for i.i.d. data. We show that Hedge with deterministic learning rates is suboptimal between these extremes, and present a new algorithm that adaptively achieves the minimax optimal rate of regret with respect to our relaxations of the i.i.d. assumption, and does so without knowledge of the underlying constraint set. We analyze our algorithm using the follow-the-regularized-leader framework, and prove it corresponds to Hedge with an adaptive learning rate that implicitly scales as the square root of the entropy of the current predictive distribution, rather than the entropy of the initial predictive distribution."
+abstract = "We describe how to approximate the intractable marginal likelihood that arises when fitting generalized linear mixed models. We prove that non-adaptive quadrature approximations yield high error asymptotically in every statistical model satisfying weak regularity conditions. We derive the rate of error incurred when using adaptive quadrature to approximate the marginal likelihood in a broad class of generalized linear mixed models, which includes non-exponential family response and non-Gaussian random effects distributions. We provide an explicit recommendation for how many quadrature points to use, and show that this recommendation recovers and explains many empirical results from published simulation studies and data analyses. Particular attention is paid to models for dependent binary and survival/time-to-event observations. Code to reproduce results in the manuscript is found at https://github.com/awstringer1/glmm-aq-paper-code."
 
 # Project summary to display on homepage.
 summary = ""
@@ -34,7 +37,7 @@ doi = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Featured"]
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -65,10 +68,9 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Cite", url = "publication/semi-adv/cite.txt"},
-		 {name = "arXiv", url = "https://arxiv.org/abs/2007.06552"},
-		 {name = "Slides", url = "publication/semi-adv/simons-rg-slides.pdf"},
-     {name = "Talk", url = "https://www.youtube.com/watch?v=WXIot2tHntU"}]
+links = [{name = "Cite", url = "publication/glmms/cite.txt"},
+        {name = "arXiv", url = "https://arxiv.org/abs/2202.07864"},
+        {name = "Code", url = "https://github.com/awstringer1/glmm-aq-paper-code"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
