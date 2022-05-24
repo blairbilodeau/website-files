@@ -70,7 +70,8 @@ url_code = ""
 links = [{name = "Cite", url = "publication/avg-wait/cite.txt"},
 		 {name = "arXiv", url = "https://arxiv.org/abs/2001.06054"},
 		 {name = "Slides", url = "publication/avg-wait/slides.pdf"},
-		 {name = "Code", url = "https://github.com/blairbilodeau/delayed-apq-avg-wait"}]
+		 {name = "Code", url = "https://github.com/blairbilodeau/delayed-apq-avg-wait"},
+     {name = "Published Version", url = "https://www.tandfonline.com/doi/full/10.1080/03155986.2022.2038962"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

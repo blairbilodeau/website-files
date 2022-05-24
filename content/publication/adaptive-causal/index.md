@@ -68,6 +68,7 @@ url_code = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{name = "Cite", url = "publication/adaptive-causal/cite.txt"},
         {name = "arXiv", url = "https://arxiv.org/abs/2202.05100"},
+        {name = "Slides", url = "publication/adaptive-causal/research-day-slides.pdf"},
         {name = "Code", url = "https://github.com/blairbilodeau/adaptive-causal-bandits"}]
 
 # Featured image
