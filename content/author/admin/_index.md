@@ -91,7 +91,7 @@ user_groups = []
 
 +++
 
-I'll be a Research Intern at Google Brain with [Been Kim](https://beenkim.github.io) for Summer 2022.
+Currently a Research Intern at Google Brain with [Been Kim](https://beenkim.github.io), working on theoretical guarantees for interpretable machine learning.
 
 I'm a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). I am supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
 
