@@ -91,18 +91,20 @@ user_groups = []
 
 +++
 
-Currently a Research Intern at Google Brain with [Been Kim](https://beenkim.github.io), working on theoretical guarantees for interpretable machine learning.
+**I am on the job market for postdoc, faculty, and research scientist positions with a start date of late spring / early summer 2023.**
 
-I'm a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). I am supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
+I'm currently a Research Intern at Google Brain with [Been Kim](https://beenkim.github.io), working on theoretical guarantees for interpretable machine learning. I'm also a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). My PhD was supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
 
 My research area is broadly the theoretical foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms. 
-I'm currently thinking about adaptivity in a variety of settings, using tools from probability, nonparametric statistics, classical minimax theory, and online learning to  answer the question:
+I develop new algorithms and provide provable guarantees with a focus on making principled, data-based decisions that balance the need for robustness in high-stakes settings with the need for strong performance in practice.
+
+<!--I'm currently thinking about adaptivity in a variety of settings, using tools from probability, nonparametric statistics, classical minimax theory, and online learning to  answer the question:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *How and when can we make decisions as well as if we knew the* 
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *structure of the World in advance, without requiring this knowledge?* 
 
-<!-- **Statistical Complexities**: For nonparametric statistical procedures, existing notions of complexity lead to vacuous or suboptimal guarantees on predictive performance. How can we formalize notions of complexity to obtain tight theoretical guarantees under realistic assumptions?
+**Statistical Complexities**: For nonparametric statistical procedures, existing notions of complexity lead to vacuous or suboptimal guarantees on predictive performance. How can we formalize notions of complexity to obtain tight theoretical guarantees under realistic assumptions?
 
 **Adaptivity**: How can we characterize the difficulty of learning from data beyond classical stationary dependence structures, and then design algorithms that adapt to these difficulty notions without requiring knowledge of the true dependence structure in advance? 
 
