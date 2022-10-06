@@ -91,9 +91,9 @@ user_groups = []
 
 +++
 
-**I am on the job market for postdoc, faculty, and research scientist positions with a start date of late spring / early summer 2023.**
+**I am on the job market for faculty and research scientist positions with a start date of summer 2023.**
 
-I'm currently a Research Intern at Google Brain with [Been Kim](https://beenkim.github.io), working on theoretical guarantees for interpretable machine learning. I'm also a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). My PhD was supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
+I'm a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). My PhD was supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). In Summer 2022, I was a Research Intern at Google Brain with [Been Kim](https://beenkim.github.io). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
 
 My research area is broadly the theoretical foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms. 
 I develop new algorithms and provide provable guarantees with a focus on making principled, data-based decisions that balance the need for robustness in high-stakes settings with the need for strong performance in practice.
