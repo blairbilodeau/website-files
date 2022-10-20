@@ -1,13 +1,15 @@
 +++
 
+featured = true
+
 # Project title.
-title = "Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference"
+title = "On the Tightness of the Laplace Approximation for Statistical Inference"
 
 # Date this page was created.
-date = 2021-02-15
+date = 2022-10-20
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["<sup>(A)</sup>Blair Bilodeau", "Alex Stringer", "Yanbo Tang"]
+authors = ["Blair Bilodeau", "Yanbo Tang", "Alex Stringer"]
 
 # Publication type.
 # Legend:
@@ -18,14 +20,14 @@ authors = ["<sup>(A)</sup>Blair Bilodeau", "Alex Stringer", "Yanbo Tang"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of the American Statistical Association (to appear)"
-publication_short = "Journal of the American Statistical Association (to appear)"
+publication = "arXiv Preprint"
+publication_short = "arXiv Preprint"
 
 # Abstract.
-abstract = "We provide the first stochastic convergence rates for a family of adaptive quadrature rules used to normalize the posterior distribution in Bayesian models. Our results apply to the uniform relative error in the approximate posterior density, the coverage probabilities of approximate credible sets, and approximate moments and quantiles, therefore guaranteeing fast asymptotic convergence of approximate summary statistics used in practice. The family of quadrature rules includes adaptive Gauss-Hermite quadrature along with certain sparse variants, and we apply this rule in two challenging low-dimensional examples. Further, we demonstrate how adaptive quadrature can be used as a crucial component of a modern approximate Bayesian inference procedure for high-dimensional additive models. The method is implemented and made publicly available in the aghq package for the R language and all code used to generate results in this paper can be found at https://github.com/awstringer1/aghq-paper-code."
+abstract = "Laplace's method is used to approximate intractable integrals in a wide range of statistical problems, including Bayesian inference and frequentist marginal likelihood models. It is classically known that the relative error rate of the approximation is not worse than Op(1/n) under standard regularity conditions, where n is the sample size. It is unknown whether the error rate can be better than Op(1/n) in common applications. We provide the first statistical lower bounds showing that the 1/n rate is tight. We prove stochastic lower bounds for two simple models: Bayesian inference on fair coin flips, and frequentist marginal likelihood estimation for an over-dispersed Poisson model. We conclude that any set of assumptions under which a faster rate can be derived must be so restrictive as to exclude these simple models, and hence the 1/n rate is, for practical purposes, the best that can be obtained."
 
 # Project summary to display on homepage.
 summary = ""
@@ -35,7 +37,7 @@ doi = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Featured"]
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -66,12 +68,8 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Cite", url = "publication/aghq/cite.txt"},
-		 {name = "arXiv", url = "https://arxiv.org/abs/2102.06801"},
-     {name = "Poster", url = "publication/aghq/poster.pdf"},
-     {name = "Slides", url = "publication/aghq/slides.pdf"},
-     {name = "Talk", url = "publication/aghq/talk.mp4"},
-     {name = "Code", url = "https://github.com/awstringer1/aghq-paper-code"}]
+links = [{name = "Cite", url = "publication/laplace-lower/cite.txt"},
+		 {name = "arXiv", url = "https://arxiv.org/abs/2210.09442"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

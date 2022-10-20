@@ -6,7 +6,7 @@ featured = true
 title = "High-Priority Expected Waiting Times in the Delayed Accumulating Priority Queue with Applications to Health Care KPIs"
 
 # Date this page was created.
-date = 2022-01-01
+date = 2020-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Blair Bilodeau", "David A. Stanford"]

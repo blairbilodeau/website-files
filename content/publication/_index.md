@@ -1,6 +1,6 @@
 +++
 title = "Papers"
-subtitle = "<small><sup>*</sup>Shared first authorship</small>"
+subtitle = "<small><sup>*</sup>Shared first authorship</small>; <small><sup>(A)</sup>Alphabetical</small>"
 
 # View.
 #   1 = List

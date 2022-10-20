@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Featured Papers"
-subtitle = "<small><sup>*</sup>Shared first authorship</small> <br> <small><a href='/publication/'>Click to view full paper list.</a></small>"
+subtitle = "<small><sup>*</sup>Shared first authorship</small>; <small><sup>(A)</sup>Alphabetical</small> <br> <small><a href='/publication/'>Click to view full paper list.</a></small>"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
