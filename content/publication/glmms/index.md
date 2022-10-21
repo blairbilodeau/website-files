@@ -9,7 +9,7 @@ title = "Fitting Generalized Linear Mixed Models using Adaptive Quadrature"
 date = 2022-02-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alex Stringer<sup>*</sup>", "Blair Bilodeau<sup>*</sup>"]
+authors = ["<sup>*</sup>Alex Stringer", "<sup>*</sup>Blair Bilodeau"]
 
 # Publication type.
 # Legend:

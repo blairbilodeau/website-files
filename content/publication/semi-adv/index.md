@@ -6,7 +6,7 @@ title = "Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via R
 date = 2020-07-13
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Blair Bilodeau<sup>*</sup>", "Jeffrey Negrea<sup>*</sup>", "Daniel M. Roy"]
+authors = ["<sup>*</sup>Blair Bilodeau", "<sup>*</sup>Jeffrey Negrea", "Daniel M. Roy"]
 
 # Publication type.
 # Legend:

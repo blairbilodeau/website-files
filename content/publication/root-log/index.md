@@ -6,7 +6,7 @@ title = "Minimax Optimal Quantile and Semi-Adversarial Regret via Root-Logarithm
 date = 2021-09-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jeffrey Negrea<sup>*</sup>", "Blair Bilodeau<sup>*</sup>", "Nicolò Campolongo", "Francesco Orabona", "Daniel M. Roy"]
+authors = ["<sup>*</sup>Jeffrey Negrea", "<sup>*</sup>Blair Bilodeau", "Nicolò Campolongo", "Francesco Orabona", "Daniel M. Roy"]
 
 # Publication type.
 # Legend:
