@@ -1,10 +1,10 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # Do not modify this line!
-active = false  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Recent News"
 subtitle = ""
 
 # Date format
@@ -17,34 +17,19 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 1
 
 +++
+
+- *(Oct 2022)* &nbsp; [Adaptively Exploiting d-Separators with Causal Bandits](https://arxiv.org/abs/2202.05100) designated as an **Oral presentation at NeurIPS 2022**. 
+- *(Oct 2022)* &nbsp; [Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference](https://arxiv.org/abs/2102.06801) accepted by the **Journal of the American Statistical Association**. 
+- *(Oct 2022)* &nbsp; I was named a [Rising Star in Data Science](https://datascience.uchicago.edu/rising-stars/#rising-stars-profiles-2) at the University of Chicago. 
+- *(July 2022)* &nbsp; I'm a research intern at [Google Brain](https://research.google/teams/brain/) with [Been Kim](https://beenkim.github.io) for the summer. 
+- *(Jan 2022)* &nbsp; I'm visiting the [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/programs/games2022) for the winter. 
+<!-- - *(Jan 2020)* &nbsp; I'm visiting the [Institute for Advanced Study](https://www.ias.edu/math/sp/Optimization_Statistics_and_Theoretical_Machine_Learning) for the winter.  -->
