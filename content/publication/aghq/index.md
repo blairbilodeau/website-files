@@ -21,8 +21,8 @@ authors = ["<sup>(A)</sup>Blair Bilodeau", "Alex Stringer", "Yanbo Tang"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of the American Statistical Association (to appear)"
-publication_short = "Journal of the American Statistical Association (to appear)"
+publication = "Journal of the American Statistical Association"
+publication_short = "Journal of the American Statistical Association"
 
 # Abstract.
 abstract = "We provide the first stochastic convergence rates for a family of adaptive quadrature rules used to normalize the posterior distribution in Bayesian models. Our results apply to the uniform relative error in the approximate posterior density, the coverage probabilities of approximate credible sets, and approximate moments and quantiles, therefore guaranteeing fast asymptotic convergence of approximate summary statistics used in practice. The family of quadrature rules includes adaptive Gauss-Hermite quadrature along with certain sparse variants, and we apply this rule in two challenging low-dimensional examples. Further, we demonstrate how adaptive quadrature can be used as a crucial component of a modern approximate Bayesian inference procedure for high-dimensional additive models. The method is implemented and made publicly available in the aghq package for the R language and all code used to generate results in this paper can be found at https://github.com/awstringer1/aghq-paper-code."
@@ -71,7 +71,8 @@ links = [{name = "Cite", url = "publication/aghq/cite.txt"},
      {name = "Poster", url = "publication/aghq/poster.pdf"},
      {name = "Slides", url = "publication/aghq/slides.pdf"},
      {name = "Talk", url = "publication/aghq/talk.mp4"},
-     {name = "Code", url = "https://github.com/awstringer1/aghq-paper-code"}]
+     {name = "Code", url = "https://github.com/awstringer1/aghq-paper-code"},
+     {name = "Published Version", url = "https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2141635"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
