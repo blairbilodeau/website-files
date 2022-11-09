@@ -68,8 +68,10 @@ url_code = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{name = "Cite", url = "publication/adaptive-causal/cite.txt"},
         {name = "arXiv", url = "https://arxiv.org/abs/2202.05100"},
-        {name = "Slides", url = "publication/adaptive-causal/research-day-slides.pdf"},
-        {name = "Code", url = "https://github.com/blairbilodeau/adaptive-causal-bandits"}]
+        {name = "Poster", url = "publication/adaptive-causal/neurips-poster.pdf"},
+        {name = "Slides", url = "publication/adaptive-causal/chicago-slides.pdf"},
+        {name = "Code", url = "https://github.com/blairbilodeau/adaptive-causal-bandits"},
+        {name = "Published Version", url = "https://openreview.net/forum?id=-e2SBzFDE8x"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
