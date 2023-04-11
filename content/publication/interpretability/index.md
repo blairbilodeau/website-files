@@ -68,6 +68,7 @@ url_code = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{name = "Cite", url = "publication/interpretability/cite.txt"},
         {name = "arXiv", url = "https://arxiv.org/abs/2212.11870"},
+        {name = "Poster", url = "publication/interpretability/poster.pdf"},
         {name = "Code", url = "https://github.com/google-research/interpretability-theory"}]
 
 # Featured image

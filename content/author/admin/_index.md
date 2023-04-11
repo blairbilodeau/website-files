@@ -50,7 +50,7 @@ user_groups = []
   icon = "envelope"
   icon_pack = "fas"
 #  link = "mailto:blair@utstat.toronto.edu"
-  link = "mailto:blair.bilodeau@mail.utoronto.ca"
+  link = "mailto:blair.bilodeau@gmail.com"
 
 [[social]]
   icon = "twitter"
@@ -91,12 +91,14 @@ user_groups = []
 
 +++
 
-**I am on the job market for faculty and research scientist positions.**
+I will join [The Voleon Group](https://voleon.com) as a Member of Research Staff in July 2023.
 
-I'm a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). My PhD was supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). In summer 2022, I was a Research Intern at [Google Brain](https://research.google/teams/brain/) with [Been Kim](https://beenkim.github.io). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
+Until then, I'm a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). My PhD was supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). In summer 2022, I was a Research Intern at [Google Brain](https://research.google/teams/brain/) with [Been Kim](https://beenkim.github.io). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
 
-My research area is broadly the theoretical foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms. 
-I develop new algorithms and provide provable guarantees with a focus on making principled, data-based decisions that balance the need for robustness in high-stakes settings with the need for strong performance in practice.
+Broadly, I work on the foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms.
+I am particularly interested in making principled, data-based decisions that balance the need for robustness in high-stakes settings with the need for strong performance in practice.
+During my PhD, I developed new statistical theory and decision-making algorithms equipped with provable guarantees.
+Currently, I am focused on how to leverage these insights into better decision making in practice.
 
 <!--I'm currently thinking about adaptivity in a variety of settings, using tools from probability, nonparametric statistics, classical minimax theory, and online learning to  answer the question:
 

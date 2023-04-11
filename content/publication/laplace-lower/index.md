@@ -6,7 +6,7 @@ featured = true
 title = "On the Tightness of the Laplace Approximation for Statistical Inference"
 
 # Date this page was created.
-date = 2022-10-20
+date = 2023-01-20
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Blair Bilodeau", "Yanbo Tang", "Alex Stringer"]
@@ -20,14 +20,14 @@ authors = ["Blair Bilodeau", "Yanbo Tang", "Alex Stringer"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv Preprint"
-publication_short = "arXiv Preprint"
+publication = "Statistics & Probability Letters"
+publication_short = "Statistics & Probability Letters"
 
 # Abstract.
-abstract = "Laplace's method is used to approximate intractable integrals in a wide range of statistical problems, including Bayesian inference and frequentist marginal likelihood models. It is classically known that the relative error rate of the approximation is not worse than Op(1/n) under standard regularity conditions, where n is the sample size. It is unknown whether the error rate can be better than Op(1/n) in common applications. We provide the first statistical lower bounds showing that the 1/n rate is tight. We prove stochastic lower bounds for two simple models: Bayesian inference on fair coin flips, and frequentist marginal likelihood estimation for an over-dispersed Poisson model. We conclude that any set of assumptions under which a faster rate can be derived must be so restrictive as to exclude these simple models, and hence the 1/n rate is, for practical purposes, the best that can be obtained."
+abstract = "Laplace's method is used to approximate intractable integrals in a statistical problems. The relative error rate of the approximation is not worse than Op(1/n). We provide the first statistical lower bounds showing that the rate is tight."
 
 # Project summary to display on homepage.
 summary = ""
@@ -69,7 +69,8 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{name = "Cite", url = "publication/laplace-lower/cite.txt"},
-		 {name = "arXiv", url = "https://arxiv.org/abs/2210.09442"}]
+		 {name = "arXiv", url = "https://arxiv.org/abs/2210.09442"},
+     {name = "Published Version", url = "https://www.sciencedirect.com/science/article/abs/pii/S0167715223000639"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

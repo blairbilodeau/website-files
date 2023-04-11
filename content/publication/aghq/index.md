@@ -4,7 +4,7 @@
 title = "Stochastic Convergence Rates and Applications of Adaptive Quadrature in Bayesian Inference"
 
 # Date this page was created.
-date = 2021-02-15
+date = 2022-02-15
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["<sup>(A)</sup>Blair Bilodeau", "Alex Stringer", "Yanbo Tang"]
