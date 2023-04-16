@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate in Statistical Sciences\n University of Toronto"
+# role = "Member of Research Staff The Voleon Group"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -93,7 +93,7 @@ user_groups = []
 
 I will join [The Voleon Group](https://voleon.com) as a Member of Research Staff in July 2023.
 
-Until then, I'm a PhD candidate in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). My PhD was supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). In summer 2022, I was a Research Intern at [Google Brain](https://research.google/teams/brain/) with [Been Kim](https://beenkim.github.io). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
+I recently completed my PhD in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). My PhD was supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). In summer 2022, I was a Research Intern at [Google Brain](https://research.google/teams/brain/) with [Been Kim](https://beenkim.github.io). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
 
 Broadly, I work on the foundations of statistical decision making, with applications to both statistical methodology and machine learning algorithms.
 I am particularly interested in making principled, data-based decisions that balance the need for robustness in high-stakes settings with the need for strong performance in practice.
