@@ -91,7 +91,7 @@ user_groups = []
 
 +++
 
-I will join [The Voleon Group](https://voleon.com) as a Member of Research Staff in July 2023.
+I am a Member of Research Staff at [The Voleon Group](https://voleon.com), where I develop novel statistical models and techniques for investment strategies.
 
 I recently completed my PhD in Statistical Sciences at the [University of Toronto](https://www.statistics.utoronto.ca), advised by [Daniel Roy](http://danroy.org). My PhD was supported by an [NSERC Doctoral Canada Graduate Scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) and the [Vector Institute](https://vectorinstitute.ai). In summer 2022, I was a Research Intern at [Google Brain](https://research.google/teams/brain/) with [Been Kim](https://beenkim.github.io). I received my BSc in Financial Modelling from [Western University](https://www.uwo.ca/stats/) in 2018.
 
