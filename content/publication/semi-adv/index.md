@@ -3,7 +3,7 @@
 title = "Relaxing the I.I.D. Assumption: Adaptively Minimax Optimal Regret via Root-Entropic Regularization"
 
 # Date this page was created.
-date = 2020-07-13
+date = 2023-08-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["<sup>*</sup>Blair Bilodeau", "<sup>*</sup>Jeffrey Negrea", "Daniel M. Roy"]
@@ -17,11 +17,11 @@ authors = ["<sup>*</sup>Blair Bilodeau", "<sup>*</sup>Jeffrey Negrea", "Daniel M
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv Preprint"
-publication_short = "arXiv Preprint"
+publication = "Annals of Statistics (to appear)"
+publication_short = "Annals of Statistics (to appear)"
 
 # Abstract.
 abstract = "We consider sequential prediction with expert advice when data are generated from distributions varying arbitrarily within an unknown constraint set. We quantify relaxations of the classical i.i.d. assumption in terms of these constraint sets, with i.i.d. sequences at one extreme and adversarial mechanisms at the other. The Hedge algorithm, long known to be minimax optimal in the adversarial regime, was recently shown to be minimax optimal for i.i.d. data. We show that Hedge with deterministic learning rates is suboptimal between these extremes, and present a new algorithm that adaptively achieves the minimax optimal rate of regret with respect to our relaxations of the i.i.d. assumption, and does so without knowledge of the underlying constraint set. We analyze our algorithm using the follow-the-regularized-leader framework, and prove it corresponds to Hedge with an adaptive learning rate that implicitly scales as the square root of the entropy of the current predictive distribution, rather than the entropy of the initial predictive distribution."
@@ -68,7 +68,8 @@ url_code = ""
 links = [{name = "Cite", url = "publication/semi-adv/cite.txt"},
 		 {name = "arXiv", url = "https://arxiv.org/abs/2007.06552"},
 		 {name = "Slides", url = "publication/semi-adv/simons-rg-slides.pdf"},
-     {name = "Talk", url = "https://www.youtube.com/watch?v=WXIot2tHntU"}]
+     {name = "Talk", url = "https://www.youtube.com/watch?v=WXIot2tHntU"},
+     {name = "Code", url = "https://github.com/jnegrea/semi-adversarial-public"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
