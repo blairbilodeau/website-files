@@ -4,7 +4,7 @@
 title = "Impossibility Theorems for Feature Attribution"
 
 # Date this page was created.
-date = 2022-12-01
+date = 2023-10-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Blair Bilodeau", "Natasha Jaques", "Pang Wei Koh", "Been Kim"]
@@ -18,11 +18,11 @@ authors = ["Blair Bilodeau", "Natasha Jaques", "Pang Wei Koh", "Been Kim"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv Preprint"
-publication_short = "arXiv Preprint"
+publication = "Proceedings of the National Academy of Sciences (to appear)"
+publication_short = "Proceedings of the National Academy of Sciences (to appear)"
 
 # Abstract.
 abstract = "Despite a sea of interpretability methods that can produce plausible explanations, the field has also empirically seen many failure cases of such methods. In light of these results, it remains unclear for practitioners how to use these methods and choose between them in a principled way. In this paper, we show that for even moderately rich model classes (easily satisfied by neural networks), any feature attribution method that is complete and linear--for example, Integrated Gradients and SHAP--can provably fail to improve on random guessing for inferring model behaviour. Our results apply to common end-tasks such as identifying local model behaviour, spurious feature identification, and algorithmic recourse. One takeaway from our work is the importance of concretely defining end-tasks. In particular, we show that once such an end-task is defined, a simple and direct approach of repeated model evaluations can outperform many other complex feature attribution methods."
