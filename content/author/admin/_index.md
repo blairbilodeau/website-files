@@ -93,7 +93,7 @@ user_groups = []
 
 I am a Member of Research Staff at [The Voleon Group](https://voleon.com), where I develop novel statistical models and techniques for investment strategies.
 
-I am an expert in statistical decision making, with applications to both statistical methodology and machine learning algorithms.
+I am an expert in decision making under uncertainty, with applications to both statistical methodology and machine learning algorithms.
 My work provides principled, data-based decisions that balance the need for robustness in high-stakes settings with the need for strong performance in practice.
 During my PhD, I developed new statistical theory and decision-making algorithms equipped with provable guarantees.
 Currently, I am focused on how to leverage these insights into better decision making in practice.
