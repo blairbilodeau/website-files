@@ -6,7 +6,7 @@ featured = true
 title = "Don't Trust Your Eyes: On the (Un)reliability of Feature Visualizations"
 
 # Date this page was created.
-date = 2023-06-01
+date = 2024-07-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["<sup>*</sup>Robert Geirhos", "<sup>*</sup>Roland S. Zimmermann", "<sup>*</sup>Blair Bilodeau", "Wieland Brendel", "Been Kim"]
@@ -20,14 +20,14 @@ authors = ["<sup>*</sup>Robert Geirhos", "<sup>*</sup>Roland S. Zimmermann", "<s
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv Preprint"
-publication_short = "arXiv Preprint"
+publication = "International Conference on Machine Learning"
+publication_short = "International Conference on Machine Learning"
 
 # Abstract.
-abstract = "How do neural networks extract patterns from pixels? Feature visualizations attempt to answer this important question by visualizing highly activating patterns through optimization. Today, visualization methods form the foundation of our knowledge about the internal workings of neural networks, as a type of mechanistic interpretability. Here we ask: How reliable are feature visualizations? We start our investigation by developing network circuits that trick feature visualizations into showing arbitrary patterns that are completely disconnected from normal network behavior on natural input. We then provide evidence for a similar phenomenon occurring in standard, unmanipulated networks: feature visualizations are processed very differently from standard input, casting doubt on their ability to 'explain' how neural networks process natural images. We underpin this empirical finding by theory proving that the set of functions that can be reliably understood by feature visualization is extremely small and does not include general black-box neural networks. Therefore, a promising way forward could be the development of networks that enforce certain structures in order to ensure more reliable feature visualizations."
+abstract = "How do neural networks extract patterns from pixels? Feature visualizations attempt to answer this important question by visualizing highly activating patterns through optimization. Today, visualization methods form the foundation of our knowledge about the internal workings of neural networks, as a type of mechanistic interpretability. Here we ask: How reliable are feature visualizations? We start our investigation by developing network circuits that trick feature visualizations into showing arbitrary patterns that are completely disconnected from normal network behavior on natural input. We then provide evidence for a similar phenomenon occurring in standard, unmanipulated networks: feature visualizations are processed very differently from standard input, casting doubt on their ability to 'explain' how neural networks process natural images. This can be used as a sanity check for feature visualizations. We underpin our empirical findings by theory proving that the set of functions that can be reliably understood by feature visualization is extremely small and does not include general black-box neural networks. Therefore, a promising way forward could be the development of networks that enforce certain structures in order to ensure more reliable feature visualizations."
 
 # Project summary to display on homepage.
 summary = ""
@@ -69,7 +69,9 @@ url_code = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{name = "Cite", url = "publication/feature-vis/cite.txt"},
-        {name = "arXiv", url = "https://arxiv.org/abs/2306.04719"}]
+        {name = "arXiv", url = "https://arxiv.org/abs/2306.04719"},
+        {name = "Code", url = "https://github.com/google-research/fooling-feature-visualizations/"},
+        {name = "Published Version", url = "https://openreview.net/pdf/ae77c6fb747af5220e2fef1264a29605b1dedcc0.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
