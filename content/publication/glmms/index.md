@@ -1,7 +1,5 @@
 +++
 
-featured = true
-
 # Project title.
 title = "Asymptotics of Numerical Integration for Two-Level Mixed Models"
 
