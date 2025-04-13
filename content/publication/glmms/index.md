@@ -3,13 +3,13 @@
 featured = true
 
 # Project title.
-title = "Fitting Generalized Linear Mixed Models using Adaptive Quadrature"
+title = "Asymptotics of Numerical Integration for Two-Level Mixed Models"
 
 # Date this page was created.
-date = 2022-02-01
+date = 2025-04-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["<sup>*</sup>Alex Stringer", "<sup>*</sup>Blair Bilodeau"]
+authors = ["<sup>(A)</sup>Blair Bilodeau", "Alex Stringer", "Yanbo Tang"]
 
 # Publication type.
 # Legend:
@@ -20,14 +20,14 @@ authors = ["<sup>*</sup>Alex Stringer", "<sup>*</sup>Blair Bilodeau"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv Preprint"
-publication_short = "arXiv Preprint"
+publication = "Bernoulli (to appear)"
+publication_short = "Bernoulli (to appear)"
 
 # Abstract.
-abstract = "We describe how to approximate the intractable marginal likelihood that arises when fitting generalized linear mixed models. We prove that non-adaptive quadrature approximations yield high error asymptotically in every statistical model satisfying weak regularity conditions. We derive the rate of error incurred when using adaptive quadrature to approximate the marginal likelihood in a broad class of generalized linear mixed models, which includes non-exponential family response and non-Gaussian random effects distributions. We provide an explicit recommendation for how many quadrature points to use, and show that this recommendation recovers and explains many empirical results from published simulation studies and data analyses. Particular attention is paid to models for dependent binary and survival/time-to-event observations. Code to reproduce results in the manuscript is found at https://github.com/awstringer1/glmm-aq-paper-code."
+abstract = "We study mixed models with a single grouping factor, where inference about unknown parameters requires optimizing a marginal likelihood defined by an intractable integral. Low-dimensional numerical integration techniques are regularly used to approximate these integrals, with inferences about parameters based on the resulting approximate marginal likelihood. For a generic class of mixed models that satisfy explicit regularity conditions, we derive the stochastic relative error rate incurred for both the likelihood and maximum likelihood estimator when adaptive numerical integration is used to approximate the marginal likelihood. We then specialize the analysis to well-specified generalized linear mixed models having exponential family response and multivariate Gaussian random effects, verifying that the regularity conditions hold, and hence that the convergence rates apply. We also prove that for models with likelihoods satisfying very weak concentration conditions that the maximum likelihood estimators from non-adaptive numerical integration approximations of the marginal likelihood are not consistent, further motivating adaptive numerical integration as the preferred tool for inference in mixed models. Code to reproduce the simulations in this paper is provided at https://github.com/awstringer1/aq-theory-paper-code."
 
 # Project summary to display on homepage.
 summary = ""
@@ -70,7 +70,7 @@ url_code = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{name = "Cite", url = "publication/glmms/cite.txt"},
         {name = "arXiv", url = "https://arxiv.org/abs/2202.07864"},
-        {name = "Code", url = "https://github.com/awstringer1/glmm-aq-paper-code"}]
+        {name = "Code", url = "https://github.com/awstringer1/aq-theory-paper-code"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
