@@ -1,5 +1,6 @@
 +++
-type= "teaching"
+# type= "teaching"
+type = "nothing"
 
 # Project title.
 title = "Scripts to Scrape Data from arXiv and biorXiv"
