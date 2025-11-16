@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-# role = "Member of Research Staff The Voleon Group"
+# role = "Senior Member of Research Staff The Voleon Group"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -50,12 +50,12 @@ user_groups = []
   icon = "envelope"
   icon_pack = "fas"
 #  link = "mailto:blair@utstat.toronto.edu"
-  link = "mailto:blair.bilodeau@gmail.com"
+  link = "mailto:blairbilodeau@gmail.com"
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/blairbilodeau"
+# [[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/blairbilodeau"
 
  [[social]]
   icon = "google-scholar"
@@ -67,10 +67,10 @@ user_groups = []
 #  icon_pack = "ai"
 #  link = "https://www.semanticscholar.org/author/Blair-Bilodeau/150932006"
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/blairbilodeau"
+# [[social]]
+#  icon = "github"
+#  icon_pack = "fab"
+#  link = "https://github.com/blairbilodeau"
 
 # [[social]]
 #  icon = "orcid"
